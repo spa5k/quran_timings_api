@@ -1,0 +1,175 @@
+[
+  {
+    "chapter": 111,
+    "segments": [
+      [
+        0,
+        1,
+        500,
+        1540
+      ],
+      [
+        1,
+        2,
+        1550,
+        3490
+      ],
+      [
+        2,
+        3,
+        3500,
+        4470
+      ],
+      [
+        3,
+        4,
+        4480,
+        5910
+      ],
+      [
+        4,
+        5,
+        5920,
+        7050
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/111001.mp3",
+    "verse": 1
+  },
+  {
+    "chapter": 111,
+    "segments": [
+      [
+        0,
+        1,
+        350,
+        2180
+      ],
+      [
+        1,
+        2,
+        2190,
+        3440
+      ],
+      [
+        2,
+        3,
+        3450,
+        4430
+      ],
+      [
+        3,
+        4,
+        4440,
+        6000
+      ],
+      [
+        4,
+        5,
+        6010,
+        6910
+      ],
+      [
+        5,
+        6,
+        6920,
+        7830
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/111002.mp3",
+    "verse": 2
+  },
+  {
+    "chapter": 111,
+    "segments": [
+      [
+        0,
+        1,
+        300,
+        1780
+      ],
+      [
+        1,
+        2,
+        1790,
+        3390
+      ],
+      [
+        2,
+        3,
+        3400,
+        4490
+      ],
+      [
+        3,
+        4,
+        4500,
+        5310
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/111003.mp3",
+    "verse": 3
+  },
+  {
+    "chapter": 111,
+    "segments": [
+      [
+        0,
+        1,
+        250,
+        2330
+      ],
+      [
+        1,
+        2,
+        2340,
+        4630
+      ],
+      [
+        2,
+        3,
+        4640,
+        5820
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/111004.mp3",
+    "verse": 4
+  },
+  {
+    "chapter": 111,
+    "segments": [
+      [
+        0,
+        1,
+        300,
+        890
+      ],
+      [
+        1,
+        2,
+        900,
+        2510
+      ],
+      [
+        2,
+        3,
+        2520,
+        4180
+      ],
+      [
+        3,
+        4,
+        4190,
+        4980
+      ],
+      [
+        4,
+        5,
+        4990,
+        5740
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/111005.mp3",
+    "verse": 5
+  }
+]

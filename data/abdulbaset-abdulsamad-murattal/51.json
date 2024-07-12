@@ -1,0 +1,234 @@
+[
+  {
+    "chapter": 51,
+    "segments": [
+      [
+        0,
+        1,
+        800,
+        2530
+      ],
+      [
+        1,
+        2,
+        2540,
+        3770
+      ]
+    ],
+    "url": "AbdulBaset/Murattal/mp3/051001.mp3",
+    "verse": 1
+  },
+  {
+    "chapter": 51,
+    "segments": [
+      [
+        0,
+        1,
+        650,
+        2470
+      ],
+      [
+        1,
+        2,
+        2480,
+        3590
+      ]
+    ],
+    "url": "AbdulBaset/Murattal/mp3/051002.mp3",
+    "verse": 2
+  },
+  {
+    "chapter": 51,
+    "segments": [
+      [
+        0,
+        1,
+        450,
+        2390
+      ],
+      [
+        1,
+        2,
+        2400,
+        3540
+      ]
+    ],
+    "url": "AbdulBaset/Murattal/mp3/051003.mp3",
+    "verse": 3
+  },
+  {
+    "chapter": 51,
+    "segments": [
+      [
+        0,
+        1,
+        440,
+        2720
+      ],
+      [
+        1,
+        2,
+        2730,
+        3750
+      ]
+    ],
+    "url": "AbdulBaset/Murattal/mp3/051004.mp3",
+    "verse": 4
+  },
+  {
+    "chapter": 51,
+    "segments": [
+      [
+        0,
+        1,
+        900,
+        2350
+      ],
+      [
+        1,
+        2,
+        2360,
+        3940
+      ],
+      [
+        2,
+        3,
+        3950,
+        5210
+      ]
+    ],
+    "url": "AbdulBaset/Murattal/mp3/051005.mp3",
+    "verse": 5
+  },
+  {
+    "chapter": 51,
+    "segments": [
+      [
+        0,
+        1,
+        650,
+        1830
+      ],
+      [
+        1,
+        2,
+        1840,
+        2830
+      ],
+      [
+        2,
+        3,
+        2840,
+        4220
+      ]
+    ],
+    "url": "AbdulBaset/Murattal/mp3/051006.mp3",
+    "verse": 6
+  },
+  {
+    "chapter": 51,
+    "segments": [
+      [
+        0,
+        1,
+        650,
+        3050
+      ],
+      [
+        1,
+        2,
+        3060,
+        3820
+      ],
+      [
+        2,
+        3,
+        3830,
+        4610
+      ]
+    ],
+    "url": "AbdulBaset/Murattal/mp3/051007.mp3",
+    "verse": 7
+  },
+  {
+    "chapter": 51,
+    "segments": [
+      [
+        0,
+        1,
+        500,
+        1990
+      ],
+      [
+        1,
+        2,
+        2000,
+        2700
+      ],
+      [
+        2,
+        3,
+        2710,
+        4420
+      ],
+      [
+        3,
+        4,
+        4430,
+        5440
+      ]
+    ],
+    "url": "AbdulBaset/Murattal/mp3/051008.mp3",
+    "verse": 8
+  },
+  {
+    "chapter": 51,
+    "segments": [
+      [
+        0,
+        1,
+        750,
+        1610
+      ],
+      [
+        1,
+        2,
+        1620,
+        2510
+      ],
+      [
+        2,
+        3,
+        2520,
+        2990
+      ],
+      [
+        3,
+        4,
+        3000,
+        4350
+      ]
+    ],
+    "url": "AbdulBaset/Murattal/mp3/051009.mp3",
+    "verse": 9
+  },
+  {
+    "chapter": 51,
+    "segments": [
+      [
+        0,
+        1,
+        350,
+        940
+      ],
+      [
+        1,
+        2,
+        950,
+        2960
+      ]
+    ],
+    "url": "AbdulBaset/Murattal/mp3/051010.mp3",
+    "verse": 10
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "recitations": [
+    {
+      "id": 2,
+      "reciter_name": "AbdulBaset AbdulSamad",
+      "style": "Murattal",
+      "slug": "abdulbaset-abdulsamad-murattal",
+      "translated_name": {
+        "name": "AbdulBaset AbdulSamad",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 1,
+      "reciter_name": "AbdulBaset AbdulSamad",
+      "style": "Mujawwad",
+      "slug": "abdulbaset-abdulsamad-mujawwad",
+      "translated_name": {
+        "name": "AbdulBaset AbdulSamad",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 3,
+      "reciter_name": "Abdur-Rahman as-Sudais",
+      "style": "",
+      "slug": "abdur-rahman-as-sudais",
+      "translated_name": {
+        "name": "Abdur-Rahman as-Sudais",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 4,
+      "reciter_name": "Abu Bakr al-Shatri",
+      "style": "",
+      "slug": "abu-bakr-al-shatri",
+      "translated_name": {
+        "name": "Abu Bakr al-Shatri",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 5,
+      "reciter_name": "Hani ar-Rifai",
+      "style": "",
+      "slug": "hani-ar-rifai",
+      "translated_name": {
+        "name": "Hani ar-Rifai",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 12,
+      "reciter_name": "Mahmoud Khalil Al-Husary",
+      "style": "Muallim",
+      "slug": "mahmoud-khalil-al-husary-muallim",
+      "translated_name": {
+        "name": "Mahmoud Khalil Al-Husary",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 6,
+      "reciter_name": "Mahmoud Khalil Al-Husary",
+      "style": "",
+      "slug": "mahmoud-khalil-al-husary",
+      "translated_name": {
+        "name": "Mahmoud Khalil Al-Husary",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 7,
+      "reciter_name": "Mishari Rashid al-`Afasy",
+      "style": "",
+      "slug": "mishari-rashid-al-afasy",
+      "translated_name": {
+        "name": "Mishari Rashid al-`Afasy",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 9,
+      "reciter_name": "Mohamed Siddiq al-Minshawi",
+      "style": "Murattal",
+      "slug": "mohamed-siddiq-al-minshawi-murattal",
+      "translated_name": {
+        "name": "Mohamed Siddiq al-Minshawi",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 8,
+      "reciter_name": "Mohamed Siddiq al-Minshawi",
+      "style": "Mujawwad",
+      "slug": "mohamed-siddiq-al-minshawi-mujawwad",
+      "translated_name": {
+        "name": "Mohamed Siddiq al-Minshawi",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 10,
+      "reciter_name": "Sa`ud ash-Shuraym",
+      "style": "",
+      "slug": "sa-ud-ash-shuraym",
+      "translated_name": {
+        "name": "Sa`ud ash-Shuraym",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 11,
+      "reciter_name": "Mohamed al-Tablawi",
+      "style": "",
+      "slug": "mohamed-al-tablawi",
+      "translated_name": {
+        "name": "Mohamed al-Tablawi",
+        "language_name": "english"
+      }
+    }
+  ]
+}

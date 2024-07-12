@@ -1,0 +1,225 @@
+[
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        50,
+        510
+      ],
+      [
+        1,
+        2,
+        520,
+        1180
+      ],
+      [
+        2,
+        3,
+        1190,
+        2340
+      ],
+      [
+        3,
+        4,
+        2350,
+        4480
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/001001.mp3",
+    "verse": 1
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        700,
+        1410
+      ],
+      [
+        1,
+        2,
+        1420,
+        2200
+      ],
+      [
+        2,
+        3,
+        2210,
+        2880
+      ],
+      [
+        3,
+        4,
+        2890,
+        5310
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/001002.mp3",
+    "verse": 2
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        150,
+        1400
+      ],
+      [
+        1,
+        2,
+        1410,
+        3530
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/001003.mp3",
+    "verse": 3
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        0,
+        1040
+      ],
+      [
+        1,
+        2,
+        1050,
+        1660
+      ],
+      [
+        2,
+        3,
+        1670,
+        3630
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/001004.mp3",
+    "verse": 4
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        350,
+        1310
+      ],
+      [
+        1,
+        2,
+        1320,
+        2210
+      ],
+      [
+        2,
+        3,
+        2220,
+        3510
+      ],
+      [
+        3,
+        4,
+        3520,
+        5900
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/001005.mp3",
+    "verse": 5
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        300,
+        870
+      ],
+      [
+        1,
+        2,
+        880,
+        1790
+      ],
+      [
+        2,
+        3,
+        1800,
+        4480
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/001006.mp3",
+    "verse": 6
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        450,
+        1200
+      ],
+      [
+        1,
+        2,
+        1210,
+        2110
+      ],
+      [
+        2,
+        3,
+        2120,
+        3070
+      ],
+      [
+        3,
+        4,
+        3080,
+        4220
+      ],
+      [
+        4,
+        5,
+        4230,
+        4940
+      ],
+      [
+        5,
+        6,
+        4950,
+        6200
+      ],
+      [
+        6,
+        7,
+        6210,
+        7370
+      ],
+      [
+        7,
+        8,
+        7380,
+        7690
+      ],
+      [
+        8,
+        9,
+        7700,
+        13830
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/001007.mp3",
+    "verse": 7
+  }
+]

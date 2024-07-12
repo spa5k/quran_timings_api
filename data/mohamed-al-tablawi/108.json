@@ -1,0 +1,83 @@
+[
+  {
+    "chapter": 108,
+    "segments": [
+      [
+        0,
+        1,
+        700,
+        2560
+      ],
+      [
+        1,
+        2,
+        2570,
+        6610
+      ],
+      [
+        2,
+        3,
+        6620,
+        8260
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Mohammad_al_Tablaway_128kbps/108001.mp3",
+    "verse": 1
+  },
+  {
+    "chapter": 108,
+    "segments": [
+      [
+        0,
+        1,
+        850,
+        2780
+      ],
+      [
+        1,
+        2,
+        2790,
+        3930
+      ],
+      [
+        2,
+        3,
+        3940,
+        5020
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Mohammad_al_Tablaway_128kbps/108002.mp3",
+    "verse": 2
+  },
+  {
+    "chapter": 108,
+    "segments": [
+      [
+        0,
+        1,
+        600,
+        1980
+      ],
+      [
+        1,
+        2,
+        1990,
+        3640
+      ],
+      [
+        2,
+        3,
+        3650,
+        4360
+      ],
+      [
+        3,
+        4,
+        4370,
+        5980
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Mohammad_al_Tablaway_128kbps/108003.mp3",
+    "verse": 3
+  }
+]

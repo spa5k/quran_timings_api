@@ -1,0 +1,225 @@
+[
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        0,
+        820
+      ],
+      [
+        1,
+        2,
+        830,
+        1520
+      ],
+      [
+        2,
+        3,
+        1530,
+        2790
+      ],
+      [
+        3,
+        4,
+        2800,
+        4240
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/001001.mp3",
+    "verse": 1
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        250,
+        1060
+      ],
+      [
+        1,
+        2,
+        1070,
+        1950
+      ],
+      [
+        2,
+        3,
+        1960,
+        2660
+      ],
+      [
+        3,
+        4,
+        2670,
+        4360
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/001002.mp3",
+    "verse": 2
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        250,
+        1570
+      ],
+      [
+        1,
+        2,
+        1580,
+        2990
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/001003.mp3",
+    "verse": 3
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        250,
+        1160
+      ],
+      [
+        1,
+        2,
+        1170,
+        1800
+      ],
+      [
+        2,
+        3,
+        1810,
+        2980
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/001004.mp3",
+    "verse": 4
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        250,
+        1380
+      ],
+      [
+        1,
+        2,
+        1390,
+        2320
+      ],
+      [
+        2,
+        3,
+        2330,
+        3820
+      ],
+      [
+        3,
+        4,
+        3830,
+        5430
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/001005.mp3",
+    "verse": 5
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        50,
+        780
+      ],
+      [
+        1,
+        2,
+        790,
+        1940
+      ],
+      [
+        2,
+        3,
+        1950,
+        3940
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/001006.mp3",
+    "verse": 6
+  },
+  {
+    "chapter": 1,
+    "segments": [
+      [
+        0,
+        1,
+        450,
+        1050
+      ],
+      [
+        1,
+        2,
+        1060,
+        2070
+      ],
+      [
+        2,
+        3,
+        2080,
+        3160
+      ],
+      [
+        3,
+        4,
+        3170,
+        4300
+      ],
+      [
+        4,
+        5,
+        8400,
+        8700
+      ],
+      [
+        5,
+        6,
+        8710,
+        10330
+      ],
+      [
+        6,
+        7,
+        10340,
+        11500
+      ],
+      [
+        7,
+        8,
+        11510,
+        11870
+      ],
+      [
+        8,
+        9,
+        11880,
+        16640
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_Muallim_128kbps/001007.mp3",
+    "verse": 7
+  }
+]

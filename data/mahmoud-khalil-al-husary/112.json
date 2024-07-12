@@ -1,0 +1,120 @@
+[
+  {
+    "chapter": 112,
+    "segments": [
+      [
+        0,
+        1,
+        850,
+        1370
+      ],
+      [
+        1,
+        2,
+        1380,
+        2090
+      ],
+      [
+        2,
+        3,
+        2100,
+        3710
+      ],
+      [
+        3,
+        4,
+        3720,
+        4610
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/112001.mp3",
+    "verse": 1
+  },
+  {
+    "chapter": 112,
+    "segments": [
+      [
+        0,
+        1,
+        1610,
+        2580
+      ],
+      [
+        1,
+        2,
+        2590,
+        3760
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/112002.mp3",
+    "verse": 2
+  },
+  {
+    "chapter": 112,
+    "segments": [
+      [
+        0,
+        1,
+        450,
+        910
+      ],
+      [
+        1,
+        2,
+        920,
+        2080
+      ],
+      [
+        2,
+        3,
+        2090,
+        3380
+      ],
+      [
+        3,
+        4,
+        3390,
+        4900
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/112003.mp3",
+    "verse": 3
+  },
+  {
+    "chapter": 112,
+    "segments": [
+      [
+        0,
+        1,
+        200,
+        1140
+      ],
+      [
+        1,
+        2,
+        1150,
+        1970
+      ],
+      [
+        2,
+        3,
+        1980,
+        3600
+      ],
+      [
+        3,
+        4,
+        3610,
+        5280
+      ],
+      [
+        4,
+        5,
+        5290,
+        6150
+      ]
+    ],
+    "url": "//mirrors.quranicaudio.com/everyayah/Husary_64kbps/112004.mp3",
+    "verse": 4
+  }
+]
