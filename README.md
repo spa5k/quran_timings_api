@@ -22,3 +22,21 @@ The JSON file contains an array of objects, where each object represents a verse
 - `verse`: The verse number.
 - `chapter`: The chapter number.
 - `segments`: An array of arrays, where each sub-array represents a segment of the audio file. Each sub-array contains integers representing the start and end times of the segment in milliseconds.
+
+
+## Every Ayah
+
+The `everyayah` folder contains data for recitations that are not part of the above dataset. They are stored in the the different format
+
+```["6064", "14816", "28442", "37567", "46379", "59377", "70255", "97752"]
+```
+
+where each number represents a verse.
+
+
+## References
+
+- [Quran.com](https://quran.com/)
+- [Quran.com API](https://api-docs.quran.com/)
+- [Every Ayah](https://everyayah.com/)
+- [Verse-by-verse timings](http://versebyversequran.com)

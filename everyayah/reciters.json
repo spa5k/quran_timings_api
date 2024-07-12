@@ -1,0 +1,174 @@
+{
+  "recitations": [
+    {
+      "id": 1,
+      "reciter_name": "AbdulBaset AbdulSamad",
+      "style": "Mujawwad",
+      "slug": "abdulbaset-abdulsamad-mujawwad",
+      "translated_name": {
+        "name": "AbdulBaset AbdulSamad",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 2,
+      "reciter_name": "AbdulBaset AbdulSamad",
+      "style": "Murattal",
+      "slug": "abdulbaset-abdulsamad-murattal",
+      "translated_name": {
+        "name": "AbdulBaset AbdulSamad",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 3,
+      "reciter_name": "Abdur-Rahman as-Sudais",
+      "style": "",
+      "slug": "abdur-rahman-as-sudais",
+      "translated_name": {
+        "name": "Abdur-Rahman as-Sudais",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 4,
+      "reciter_name": "Abu Bakr al-Shatri",
+      "style": "",
+      "slug": "abu-bakr-al-shatri",
+      "translated_name": {
+        "name": "Abu Bakr al-Shatri",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 5,
+      "reciter_name": "Mahmoud Khalil Al-Husary",
+      "style": "",
+      "slug": "mahmoud-khalil-al-husary",
+      "translated_name": {
+        "name": "Mahmoud Khalil Al-Husary",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 6,
+      "reciter_name": "Mohamed Siddiq al-Minshawi",
+      "style": "Murattal",
+      "slug": "mohamed-siddiq-al-minshawi-murattal",
+      "translated_name": {
+        "name": "Mohamed Siddiq al-Minshawi",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 7,
+      "reciter_name": "Mohamed Siddiq al-Minshawi",
+      "style": "Mujawwad",
+      "slug": "mohamed-siddiq-al-minshawi-mujawwad",
+      "translated_name": {
+        "name": "Mohamed Siddiq al-Minshawi",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 8,
+      "reciter_name": "Sa`ud ash-Shuraym",
+      "style": "",
+      "slug": "sa-ud-ash-shuraym",
+      "translated_name": {
+        "name": "Sa`ud ash-Shuraym",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 9,
+      "reciter_name": "Mohamed al-Tablawi",
+      "style": "",
+      "slug": "mohamed-al-tablawi",
+      "translated_name": {
+        "name": "Mohamed al-Tablawi",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 10,
+      "reciter_name": "Abdullah Awad Al Juhany",
+      "style": "",
+      "slug": "abdullah-awad-al-juhany",
+      "translated_name": {
+        "name": "Abdullah Awad Al Juhany",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 11,
+      "reciter_name": "Abdullah Matroud",
+      "style": "",
+      "slug": "abdullah-matroud",
+      "translated_name": {
+        "name": "Abdullah Matroud",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 12,
+      "reciter_name": "Ahmed Neena",
+      "style": "",
+      "slug": "ahmed-neena",
+      "translated_name": {
+        "name": "Ahmed Neena",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 13,
+      "reciter_name": "Akram Al Alaqimy",
+      "style": "",
+      "slug": "akram-al-alaqimy",
+      "translated_name": {
+        "name": "Akram Al Alaqimy",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 14,
+      "reciter_name": "Ali Hajjaj Al Suesy",
+      "style": "",
+      "slug": "ali-hajjaj-al-suesy",
+      "translated_name": {
+        "name": "Ali Hajjaj Al Suesy",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 15,
+      "reciter_name": "Aziz Alili",
+      "style": "",
+      "slug": "aziz-alili",
+      "translated_name": {
+        "name": "Aziz Alili",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 16,
+      "reciter_name": "Khaalid Abdullah Al Qahtani",
+      "style": "",
+      "slug": "khaalid-abdullah-al-qahtani",
+      "translated_name": {
+        "name": "Khaalid Abdullah Al Qahtani",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 17,
+      "reciter_name": "Muhammad Ayyub Bin Muhammad Yusuf",
+      "style": "",
+      "slug": "muhammad-ayyub-bin-muhammad-yusuf",
+      "translated_name": {
+        "name": "Muhammad Ayyub Bin Muhammad Yusuf",
+        "language_name": "english"
+      }
+    }
+  ]
+}
