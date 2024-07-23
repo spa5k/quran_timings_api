@@ -1,0 +1,33 @@
+{
+	"audio_files": [
+		{
+			"id": 11329,
+			"chapter_id": 87,
+			"file_size": 1759360.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/087.mp3",
+			"duration": 72000,
+			"verse_timings": [
+				{ "verse_key": "87:1", "timestamp_from": 4708, "timestamp_to": 7481, "duration": 2773, "segments": [] },
+				{ "verse_key": "87:2", "timestamp_from": 7481, "timestamp_to": 9822, "duration": 2341, "segments": [] },
+				{ "verse_key": "87:3", "timestamp_from": 9822, "timestamp_to": 12594, "duration": 2772, "segments": [] },
+				{ "verse_key": "87:4", "timestamp_from": 12594, "timestamp_to": 15894, "duration": 3300, "segments": [] },
+				{ "verse_key": "87:5", "timestamp_from": 15894, "timestamp_to": 20115, "duration": 4221, "segments": [] },
+				{ "verse_key": "87:6", "timestamp_from": 20115, "timestamp_to": 23847, "duration": 3732, "segments": [] },
+				{ "verse_key": "87:7", "timestamp_from": 23847, "timestamp_to": 31518, "duration": 7671, "segments": [] },
+				{ "verse_key": "87:8", "timestamp_from": 31518, "timestamp_to": 34298, "duration": 2780, "segments": [] },
+				{ "verse_key": "87:9", "timestamp_from": 34298, "timestamp_to": 37759, "duration": 3461, "segments": [] },
+				{ "verse_key": "87:10", "timestamp_from": 37759, "timestamp_to": 40879, "duration": 3120, "segments": [] },
+				{ "verse_key": "87:11", "timestamp_from": 40879, "timestamp_to": 43369, "duration": 2490, "segments": [] },
+				{ "verse_key": "87:12", "timestamp_from": 43369, "timestamp_to": 46579, "duration": 3210, "segments": [] },
+				{ "verse_key": "87:13", "timestamp_from": 46579, "timestamp_to": 51059, "duration": 4480, "segments": [] },
+				{ "verse_key": "87:14", "timestamp_from": 51059, "timestamp_to": 53921, "duration": 2862, "segments": [] },
+				{ "verse_key": "87:15", "timestamp_from": 53921, "timestamp_to": 57241, "duration": 3320, "segments": [] },
+				{ "verse_key": "87:16", "timestamp_from": 57241, "timestamp_to": 60713, "duration": 3472, "segments": [] },
+				{ "verse_key": "87:17", "timestamp_from": 60713, "timestamp_to": 64483, "duration": 3770, "segments": [] },
+				{ "verse_key": "87:18", "timestamp_from": 64483, "timestamp_to": 68823, "duration": 4340, "segments": [] },
+				{ "verse_key": "87:19", "timestamp_from": 68823, "timestamp_to": 72697, "duration": 3874, "segments": [] }
+			]
+		}
+	]
+}

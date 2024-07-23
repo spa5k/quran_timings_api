@@ -1,0 +1,48 @@
+{
+	"audio_files": [
+		{
+			"id": 11274,
+			"chapter_id": 31,
+			"file_size": 11583616.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/031.mp3",
+			"duration": 482000,
+			"verse_timings": [
+				{ "verse_key": "31:1", "timestamp_from": 3417, "timestamp_to": 10142, "duration": 6725, "segments": [] },
+				{ "verse_key": "31:2", "timestamp_from": 10142, "timestamp_to": 14115, "duration": 3973, "segments": [] },
+				{ "verse_key": "31:3", "timestamp_from": 14115, "timestamp_to": 17216, "duration": 3101, "segments": [] },
+				{ "verse_key": "31:4", "timestamp_from": 17216, "timestamp_to": 25878, "duration": 8662, "segments": [] },
+				{ "verse_key": "31:5", "timestamp_from": 25878, "timestamp_to": 34794, "duration": 8916, "segments": [] },
+				{ "verse_key": "31:6", "timestamp_from": 34794, "timestamp_to": 50708, "duration": 15914, "segments": [] },
+				{ "verse_key": "31:7", "timestamp_from": 50708, "timestamp_to": 65538, "duration": 14830, "segments": [] },
+				{ "verse_key": "31:8", "timestamp_from": 65538, "timestamp_to": 72648, "duration": 7110, "segments": [] },
+				{ "verse_key": "31:9", "timestamp_from": 72648, "timestamp_to": 80260, "duration": 7612, "segments": [] },
+				{ "verse_key": "31:10", "timestamp_from": 80260, "timestamp_to": 106579, "duration": 26319, "segments": [] },
+				{ "verse_key": "31:11", "timestamp_from": 106579, "timestamp_to": 120563, "duration": 13984, "segments": [] },
+				{ "verse_key": "31:12", "timestamp_from": 120563, "timestamp_to": 135878, "duration": 15315, "segments": [] },
+				{ "verse_key": "31:13", "timestamp_from": 135878, "timestamp_to": 146797, "duration": 10919, "segments": [] },
+				{ "verse_key": "31:14", "timestamp_from": 146797, "timestamp_to": 161598, "duration": 14801, "segments": [] },
+				{ "verse_key": "31:15", "timestamp_from": 161598, "timestamp_to": 187310, "duration": 25712, "segments": [] },
+				{ "verse_key": "31:16", "timestamp_from": 187310, "timestamp_to": 206553, "duration": 19243, "segments": [] },
+				{ "verse_key": "31:17", "timestamp_from": 206553, "timestamp_to": 220924, "duration": 14371, "segments": [] },
+				{ "verse_key": "31:18", "timestamp_from": 220924, "timestamp_to": 233563, "duration": 12639, "segments": [] },
+				{ "verse_key": "31:19", "timestamp_from": 233563, "timestamp_to": 243215, "duration": 9652, "segments": [] },
+				{ "verse_key": "31:20", "timestamp_from": 243215, "timestamp_to": 266781, "duration": 23566, "segments": [] },
+				{ "verse_key": "31:21", "timestamp_from": 266781, "timestamp_to": 286857, "duration": 20076, "segments": [] },
+				{ "verse_key": "31:22", "timestamp_from": 286857, "timestamp_to": 298495, "duration": 11638, "segments": [] },
+				{ "verse_key": "31:23", "timestamp_from": 298495, "timestamp_to": 311380, "duration": 12885, "segments": [] },
+				{ "verse_key": "31:24", "timestamp_from": 311380, "timestamp_to": 317616, "duration": 6236, "segments": [] },
+				{ "verse_key": "31:25", "timestamp_from": 317616, "timestamp_to": 330436, "duration": 12820, "segments": [] },
+				{ "verse_key": "31:26", "timestamp_from": 330436, "timestamp_to": 338088, "duration": 7652, "segments": [] },
+				{ "verse_key": "31:27", "timestamp_from": 338088, "timestamp_to": 354626, "duration": 16538, "segments": [] },
+				{ "verse_key": "31:28", "timestamp_from": 354626, "timestamp_to": 363794, "duration": 9168, "segments": [] },
+				{ "verse_key": "31:29", "timestamp_from": 363794, "timestamp_to": 382624, "duration": 18830, "segments": [] },
+				{ "verse_key": "31:30", "timestamp_from": 382624, "timestamp_to": 395868, "duration": 13244, "segments": [] },
+				{ "verse_key": "31:31", "timestamp_from": 395868, "timestamp_to": 410943, "duration": 15075, "segments": [] },
+				{ "verse_key": "31:32", "timestamp_from": 410943, "timestamp_to": 431002, "duration": 20059, "segments": [] },
+				{ "verse_key": "31:33", "timestamp_from": 431002, "timestamp_to": 458343, "duration": 27341, "segments": [] },
+				{ "verse_key": "31:34", "timestamp_from": 458343, "timestamp_to": 482009, "duration": 23666, "segments": [] }
+			]
+		}
+	]
+}

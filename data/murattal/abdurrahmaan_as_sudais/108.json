@@ -1,0 +1,35 @@
+{
+	"audio_files": [
+		{
+			"id": 7577,
+			"chapter_id": 108,
+			"file_size": 444544.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/murattal/108.mp3",
+			"duration": 14000,
+			"verse_timings": [
+				{
+					"verse_key": "108:1",
+					"timestamp_from": 0,
+					"timestamp_to": 5910,
+					"duration": -5910,
+					"segments": [[1, 0.0, 2945.0], [2, 2945.0, 4460.0], [3, 4460.0, 5955.0]]
+				},
+				{
+					"verse_key": "108:2",
+					"timestamp_from": 5910,
+					"timestamp_to": 9650,
+					"duration": -3740,
+					"segments": [[1, 5910.0, 7410.0], [2, 7410.0, 8440.0], [3, 8440.0, 9695.0]]
+				},
+				{
+					"verse_key": "108:3",
+					"timestamp_from": 9650,
+					"timestamp_to": 14120,
+					"duration": -4470,
+					"segments": [[1, 9650.0, 11080.0], [2, 11080.0, 12190.0], [3, 12190.0, 12660.0], [4, 12660.0, 14175.0]]
+				}
+			]
+		}
+	]
+}

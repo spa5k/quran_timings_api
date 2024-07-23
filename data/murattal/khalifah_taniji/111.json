@@ -1,0 +1,19 @@
+{
+	"audio_files": [
+		{
+			"id": 11353,
+			"chapter_id": 111,
+			"file_size": 686208.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/111.mp3",
+			"duration": 28000,
+			"verse_timings": [
+				{ "verse_key": "111:1", "timestamp_from": 4814, "timestamp_to": 10476, "duration": 5662, "segments": [] },
+				{ "verse_key": "111:2", "timestamp_from": 10476, "timestamp_to": 15816, "duration": 5340, "segments": [] },
+				{ "verse_key": "111:3", "timestamp_from": 15816, "timestamp_to": 19216, "duration": 3400, "segments": [] },
+				{ "verse_key": "111:4", "timestamp_from": 19216, "timestamp_to": 23346, "duration": 4130, "segments": [] },
+				{ "verse_key": "111:5", "timestamp_from": 23346, "timestamp_to": 28186, "duration": 4840, "segments": [] }
+			]
+		}
+	]
+}

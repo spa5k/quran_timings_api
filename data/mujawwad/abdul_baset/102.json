@@ -1,0 +1,82 @@
+{
+	"audio_files": [
+		{
+			"id": 10823,
+			"chapter_id": 102,
+			"file_size": 1732736.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/mujawwad/102.mp3",
+			"duration": 93000,
+			"verse_timings": [
+				{
+					"verse_key": "102:1",
+					"timestamp_from": 0,
+					"timestamp_to": 7400,
+					"duration": 7,
+					"segments": [[1, 1400.0, 4110.0], [2, 4120.0, 6730.0]]
+				},
+				{
+					"verse_key": "102:2",
+					"timestamp_from": 7400,
+					"timestamp_to": 16580,
+					"duration": 9,
+					"segments": [[1, 10150.0, 11450.0], [2, 11460.0, 13020.0], [3, 13030.0, 15460.0]]
+				},
+				{
+					"verse_key": "102:3",
+					"timestamp_from": 16580,
+					"timestamp_to": 27120,
+					"duration": 10,
+					"segments": [[1, 19980.0, 20810.0], [2, 20820.0, 21990.0], [3, 22000.0, 26860.0]]
+				},
+				{
+					"verse_key": "102:4",
+					"timestamp_from": 27120,
+					"timestamp_to": 39410,
+					"duration": 12,
+					"segments": [[1, 29220.0, 30720.0], [2, 30730.0, 32600.0], [3, 32610.0, 33840.0], [4, 33850.0, 39310.0]]
+				},
+				{
+					"verse_key": "102:5",
+					"timestamp_from": 39410,
+					"timestamp_to": 52920,
+					"duration": 13,
+					"segments": [
+						[1, 42410.0, 43690.0],
+						[2, 43700.0, 44410.0],
+						[3, 44420.0, 46840.0],
+						[4, 46850.0, 48080.0],
+						[5, 48090.0, 52860.0]
+					]
+				},
+				{
+					"verse_key": "102:6",
+					"timestamp_from": 52920,
+					"timestamp_to": 64080,
+					"duration": 11,
+					"segments": [[1, 55620.0, 58830.0], [2, 58840.0, 59580.0]]
+				},
+				{
+					"verse_key": "102:7",
+					"timestamp_from": 64080,
+					"timestamp_to": 77700,
+					"duration": 13,
+					"segments": [[1, 66730.0, 68240.0], [2, 68250.0, 71880.0], [3, 71890.0, 73180.0], [4, 73190.0, 77640.0]]
+				},
+				{
+					"verse_key": "102:8",
+					"timestamp_from": 77700,
+					"timestamp_to": 93220,
+					"duration": 15,
+					"segments": [
+						[1, 80150.0, 81600.0],
+						[2, 81610.0, 84810.0],
+						[3, 84820.0, 87250.0],
+						[4, 87260.0, 88400.0],
+						[5, 88410.0, 93170.0]
+					]
+				}
+			]
+		}
+	]
+}

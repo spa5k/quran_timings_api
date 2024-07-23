@@ -1,0 +1,45 @@
+{
+	"audio_files": [
+		{
+			"id": 11318,
+			"chapter_id": 76,
+			"file_size": 6465664.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/076.mp3",
+			"duration": 268000,
+			"verse_timings": [
+				{ "verse_key": "76:1", "timestamp_from": 8163, "timestamp_to": 16300, "duration": 8137, "segments": [] },
+				{ "verse_key": "76:2", "timestamp_from": 16300, "timestamp_to": 26659, "duration": 10359, "segments": [] },
+				{ "verse_key": "76:3", "timestamp_from": 26659, "timestamp_to": 34695, "duration": 8036, "segments": [] },
+				{ "verse_key": "76:4", "timestamp_from": 34695, "timestamp_to": 41773, "duration": 7078, "segments": [] },
+				{ "verse_key": "76:5", "timestamp_from": 41773, "timestamp_to": 49137, "duration": 7364, "segments": [] },
+				{ "verse_key": "76:6", "timestamp_from": 49137, "timestamp_to": 56068, "duration": 6931, "segments": [] },
+				{ "verse_key": "76:7", "timestamp_from": 56068, "timestamp_to": 63859, "duration": 7791, "segments": [] },
+				{ "verse_key": "76:8", "timestamp_from": 63859, "timestamp_to": 71492, "duration": 7633, "segments": [] },
+				{ "verse_key": "76:9", "timestamp_from": 71492, "timestamp_to": 82072, "duration": 10580, "segments": [] },
+				{ "verse_key": "76:10", "timestamp_from": 82072, "timestamp_to": 88504, "duration": 6432, "segments": [] },
+				{ "verse_key": "76:11", "timestamp_from": 88504, "timestamp_to": 96946, "duration": 8442, "segments": [] },
+				{ "verse_key": "76:12", "timestamp_from": 96946, "timestamp_to": 102916, "duration": 5970, "segments": [] },
+				{ "verse_key": "76:13", "timestamp_from": 102916, "timestamp_to": 112381, "duration": 9465, "segments": [] },
+				{ "verse_key": "76:14", "timestamp_from": 112381, "timestamp_to": 119375, "duration": 6994, "segments": [] },
+				{ "verse_key": "76:15", "timestamp_from": 119375, "timestamp_to": 129533, "duration": 10158, "segments": [] },
+				{ "verse_key": "76:16", "timestamp_from": 129533, "timestamp_to": 135239, "duration": 5706, "segments": [] },
+				{ "verse_key": "76:17", "timestamp_from": 135239, "timestamp_to": 142250, "duration": 7011, "segments": [] },
+				{ "verse_key": "76:18", "timestamp_from": 142250, "timestamp_to": 148501, "duration": 6251, "segments": [] },
+				{ "verse_key": "76:19", "timestamp_from": 148501, "timestamp_to": 159023, "duration": 10522, "segments": [] },
+				{ "verse_key": "76:20", "timestamp_from": 159023, "timestamp_to": 166255, "duration": 7232, "segments": [] },
+				{ "verse_key": "76:21", "timestamp_from": 166255, "timestamp_to": 180965, "duration": 14710, "segments": [] },
+				{ "verse_key": "76:22", "timestamp_from": 180965, "timestamp_to": 190366, "duration": 9401, "segments": [] },
+				{ "verse_key": "76:23", "timestamp_from": 190366, "timestamp_to": 196940, "duration": 6574, "segments": [] },
+				{ "verse_key": "76:24", "timestamp_from": 196940, "timestamp_to": 203708, "duration": 6768, "segments": [] },
+				{ "verse_key": "76:25", "timestamp_from": 203708, "timestamp_to": 208570, "duration": 4862, "segments": [] },
+				{ "verse_key": "76:26", "timestamp_from": 208570, "timestamp_to": 215436, "duration": 6866, "segments": [] },
+				{ "verse_key": "76:27", "timestamp_from": 215436, "timestamp_to": 226635, "duration": 11199, "segments": [] },
+				{ "verse_key": "76:28", "timestamp_from": 226635, "timestamp_to": 236535, "duration": 9900, "segments": [] },
+				{ "verse_key": "76:29", "timestamp_from": 236535, "timestamp_to": 245981, "duration": 9446, "segments": [] },
+				{ "verse_key": "76:30", "timestamp_from": 245981, "timestamp_to": 257611, "duration": 11630, "segments": [] },
+				{ "verse_key": "76:31", "timestamp_from": 257611, "timestamp_to": 268392, "duration": 10781, "segments": [] }
+			]
+		}
+	]
+}

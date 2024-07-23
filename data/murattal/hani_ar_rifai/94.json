@@ -1,0 +1,70 @@
+{
+	"audio_files": [
+		{
+			"id": 641,
+			"chapter_id": 94,
+			"file_size": 370816.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abu_bakr_shatri/murattal/94.mp3",
+			"duration": 27000,
+			"verse_timings": [
+				{
+					"verse_key": "94:1",
+					"timestamp_from": 0,
+					"timestamp_to": 2864,
+					"duration": -2864,
+					"segments": [[1, 0, 560], [2, 560, 1310], [3, 1310, 1720], [4, 1720, 2700]]
+				},
+				{
+					"verse_key": "94:2",
+					"timestamp_from": 2864,
+					"timestamp_to": 6437,
+					"duration": -3573,
+					"segments": [[1, 2864, 4034], [2, 4034, 5234], [3, 5234, 6184]]
+				},
+				{
+					"verse_key": "94:3",
+					"timestamp_from": 6437,
+					"timestamp_to": 10740,
+					"duration": -4303,
+					"segments": [[1, 6437, 8077], [2, 8077, 9817]]
+				},
+				{
+					"verse_key": "94:4",
+					"timestamp_from": 10740,
+					"timestamp_to": 13660,
+					"duration": -2920,
+					"segments": [[1, 10740, 11950], [2, 11970, 12400], [3, 12400, 13550]]
+				},
+				{
+					"verse_key": "94:5",
+					"timestamp_from": 13660,
+					"timestamp_to": 17644,
+					"duration": -3984,
+					"segments": [[1, 13660, 14870], [2, 14870, 15240], [3, 15240, 16130], [4, 16150, 17510]]
+				},
+				{
+					"verse_key": "94:6",
+					"timestamp_from": 17644,
+					"timestamp_to": 21221,
+					"duration": -3577,
+					"segments": [[1, 17644, 18524], [2, 18524, 18884], [3, 18884, 19764], [4, 19784, 21104]]
+				},
+				{
+					"verse_key": "94:7",
+					"timestamp_from": 21221,
+					"timestamp_to": 24648,
+					"duration": -3427,
+					"segments": [[1, 21221, 22091], [2, 22131, 22861], [3, 23021, 24511]]
+				},
+				{
+					"verse_key": "94:8",
+					"timestamp_from": 24648,
+					"timestamp_to": 27694,
+					"duration": -3046,
+					"segments": [[1, 24648, 25378], [2, 25378, 26258], [3, 26308, 27548]]
+				}
+			]
+		}
+	]
+}

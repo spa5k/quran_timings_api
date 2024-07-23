@@ -1,0 +1,44 @@
+{
+	"audio_files": [
+		{
+			"id": 11331,
+			"chapter_id": 89,
+			"file_size": 3530880.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/089.mp3",
+			"duration": 146000,
+			"verse_timings": [
+				{ "verse_key": "89:1", "timestamp_from": 4753, "timestamp_to": 6048, "duration": 1295, "segments": [] },
+				{ "verse_key": "89:2", "timestamp_from": 6048, "timestamp_to": 8178, "duration": 2130, "segments": [] },
+				{ "verse_key": "89:3", "timestamp_from": 8178, "timestamp_to": 10109, "duration": 1931, "segments": [] },
+				{ "verse_key": "89:4", "timestamp_from": 10109, "timestamp_to": 12389, "duration": 2280, "segments": [] },
+				{ "verse_key": "89:5", "timestamp_from": 12389, "timestamp_to": 15979, "duration": 3590, "segments": [] },
+				{ "verse_key": "89:6", "timestamp_from": 15979, "timestamp_to": 20090, "duration": 4111, "segments": [] },
+				{ "verse_key": "89:7", "timestamp_from": 20090, "timestamp_to": 22511, "duration": 2421, "segments": [] },
+				{ "verse_key": "89:8", "timestamp_from": 22511, "timestamp_to": 26741, "duration": 4230, "segments": [] },
+				{ "verse_key": "89:9", "timestamp_from": 26741, "timestamp_to": 31392, "duration": 4651, "segments": [] },
+				{ "verse_key": "89:10", "timestamp_from": 31392, "timestamp_to": 33953, "duration": 2561, "segments": [] },
+				{ "verse_key": "89:11", "timestamp_from": 33953, "timestamp_to": 36552, "duration": 2599, "segments": [] },
+				{ "verse_key": "89:12", "timestamp_from": 36552, "timestamp_to": 39454, "duration": 2902, "segments": [] },
+				{ "verse_key": "89:13", "timestamp_from": 39454, "timestamp_to": 44125, "duration": 4671, "segments": [] },
+				{ "verse_key": "89:14", "timestamp_from": 44125, "timestamp_to": 47766, "duration": 3641, "segments": [] },
+				{ "verse_key": "89:15", "timestamp_from": 47766, "timestamp_to": 59918, "duration": 12152, "segments": [] },
+				{ "verse_key": "89:16", "timestamp_from": 59918, "timestamp_to": 69680, "duration": 9762, "segments": [] },
+				{ "verse_key": "89:17", "timestamp_from": 69680, "timestamp_to": 73801, "duration": 4121, "segments": [] },
+				{ "verse_key": "89:18", "timestamp_from": 73801, "timestamp_to": 79815, "duration": 6014, "segments": [] },
+				{ "verse_key": "89:19", "timestamp_from": 79815, "timestamp_to": 84435, "duration": 4620, "segments": [] },
+				{ "verse_key": "89:20", "timestamp_from": 84435, "timestamp_to": 90347, "duration": 5912, "segments": [] },
+				{ "verse_key": "89:21", "timestamp_from": 90347, "timestamp_to": 96992, "duration": 6645, "segments": [] },
+				{ "verse_key": "89:22", "timestamp_from": 96992, "timestamp_to": 103643, "duration": 6651, "segments": [] },
+				{ "verse_key": "89:23", "timestamp_from": 103643, "timestamp_to": 115906, "duration": 12263, "segments": [] },
+				{ "verse_key": "89:24", "timestamp_from": 115906, "timestamp_to": 120425, "duration": 4519, "segments": [] },
+				{ "verse_key": "89:25", "timestamp_from": 120425, "timestamp_to": 125727, "duration": 5302, "segments": [] },
+				{ "verse_key": "89:26", "timestamp_from": 125727, "timestamp_to": 130639, "duration": 4912, "segments": [] },
+				{ "verse_key": "89:27", "timestamp_from": 130639, "timestamp_to": 135510, "duration": 4871, "segments": [] },
+				{ "verse_key": "89:28", "timestamp_from": 135510, "timestamp_to": 140653, "duration": 5143, "segments": [] },
+				{ "verse_key": "89:29", "timestamp_from": 140653, "timestamp_to": 143144, "duration": 2491, "segments": [] },
+				{ "verse_key": "89:30", "timestamp_from": 143144, "timestamp_to": 146484, "duration": 3340, "segments": [] }
+			]
+		}
+	]
+}

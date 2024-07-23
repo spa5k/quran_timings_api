@@ -1,0 +1,87 @@
+{
+	"audio_files": [
+		{
+			"id": 10817,
+			"chapter_id": 95,
+			"file_size": 1783936.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/mujawwad/95.mp3",
+			"duration": 100000,
+			"verse_timings": [
+				{
+					"verse_key": "95:1",
+					"timestamp_from": 0,
+					"timestamp_to": 8630,
+					"duration": 8,
+					"segments": [[1, 0.0, 8620.0]]
+				},
+				{
+					"verse_key": "95:2",
+					"timestamp_from": 8630,
+					"timestamp_to": 17340,
+					"duration": 8,
+					"segments": [[1, 15750.0, 17280.0]]
+				},
+				{
+					"verse_key": "95:3",
+					"timestamp_from": 17340,
+					"timestamp_to": 27380,
+					"duration": 10,
+					"segments": [[1, 19740.0, 21540.0], [2, 21550.0, 25740.0], [3, 25750.0, 27310.0]]
+				},
+				{
+					"verse_key": "95:4",
+					"timestamp_from": 27380,
+					"timestamp_to": 43850,
+					"duration": 16,
+					"segments": [
+						[1, 30630.0, 31330.0],
+						[2, 31340.0, 32770.0],
+						[3, 32780.0, 35730.0],
+						[4, 35740.0, 37600.0],
+						[5, 37610.0, 39110.0],
+						[6, 39120.0, 43790.0]
+					]
+				},
+				{
+					"verse_key": "95:5",
+					"timestamp_from": 43850,
+					"timestamp_to": 55770,
+					"duration": 11,
+					"segments": [[1, 45350.0, 46750.0], [2, 46760.0, 49370.0], [3, 49380.0, 50820.0], [4, 50830.0, 55640.0]]
+				},
+				{
+					"verse_key": "95:6",
+					"timestamp_from": 55770,
+					"timestamp_to": 77720,
+					"duration": 21,
+					"segments": [
+						[1, 59120.0, 59790.0],
+						[2, 59800.0, 61690.0],
+						[3, 61700.0, 63670.0],
+						[4, 63680.0, 65180.0],
+						[5, 65190.0, 68170.0],
+						[6, 68180.0, 69920.0],
+						[7, 69930.0, 71530.0],
+						[8, 71540.0, 72920.0],
+						[9, 72930.0, 77330.0]
+					]
+				},
+				{
+					"verse_key": "95:7",
+					"timestamp_from": 77720,
+					"timestamp_to": 88650,
+					"duration": 10,
+					"segments": [[1, 79470.0, 80690.0], [2, 80700.0, 82580.0], [3, 82590.0, 83760.0], [4, 83770.0, 88590.0]]
+				},
+				{
+					"verse_key": "95:8",
+					"timestamp_from": 88650,
+					"timestamp_to": 100570,
+					"duration": 11,
+					"segments": [[1, 89600.0, 91260.0], [2, 91270.0, 92710.0], [3, 92720.0, 94760.0], [4, 94770.0, 99900.0]]
+				}
+			]
+		}
+	]
+}

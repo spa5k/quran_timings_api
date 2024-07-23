@@ -1,0 +1,50 @@
+{
+	"audio_files": [
+		{
+			"id": 11919,
+			"chapter_id": 106,
+			"file_size": 845952.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/hani_ar_rifai/murattal/106.mp3",
+			"duration": 23000,
+			"verse_timings": [
+				{
+					"verse_key": "106:1",
+					"timestamp_from": 7,
+					"timestamp_to": 3887,
+					"duration": -3880,
+					"segments": [[1, 7.0, 2297.0], [2, 2297.0, 4112.0]]
+				},
+				{
+					"verse_key": "106:2",
+					"timestamp_from": 3894,
+					"timestamp_to": 9613,
+					"duration": -5719,
+					"segments": [[1, 3894.0, 5194.0], [2, 5194.0, 6014.0], [3, 6014.0, 7764.0], [4, 7764.0, 9429.0]]
+				},
+				{
+					"verse_key": "106:3",
+					"timestamp_from": 9620,
+					"timestamp_to": 13753,
+					"duration": -4133,
+					"segments": [[1, 9620.0, 11120.0], [2, 11120.0, 11630.0], [3, 11630.0, 12330.0], [4, 12330.0, 13405.0]]
+				},
+				{
+					"verse_key": "106:4",
+					"timestamp_from": 13760,
+					"timestamp_to": 22715,
+					"duration": -8955,
+					"segments": [
+						[1, 13760.0, 15360.0],
+						[2, 15360.0, 16940.0],
+						[3, 16940.0, 17520.0],
+						[4, 17520.0, 18860.0],
+						[5, 18860.0, 20730.0],
+						[6, 20730.0, 21370.0],
+						[7, 21370.0, 22715.0]
+					]
+				}
+			]
+		}
+	]
+}

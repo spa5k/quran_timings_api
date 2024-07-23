@@ -1,0 +1,77 @@
+{
+	"audio_files": [
+		{
+			"id": 7573,
+			"chapter_id": 104,
+			"file_size": 1214592.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/murattal/104.mp3",
+			"duration": 45000,
+			"verse_timings": [
+				{
+					"verse_key": "104:1",
+					"timestamp_from": 0,
+					"timestamp_to": 4760,
+					"duration": -4760,
+					"segments": [[1, 0.0, 1260.0], [2, 1260.0, 2250.0], [3, 2250.0, 3264.0], [4, 3264.0, 4285.0]]
+				},
+				{
+					"verse_key": "104:2",
+					"timestamp_from": 4760,
+					"timestamp_to": 10040,
+					"duration": -5280,
+					"segments": [[1, 4760.0, 6380.0], [2, 6380.0, 7000.0], [3, 7000.0, 8393.0], [4, 8393.0, 9765.0]]
+				},
+				{
+					"verse_key": "104:3",
+					"timestamp_from": 10040,
+					"timestamp_to": 16180,
+					"duration": -6140,
+					"segments": [[1, 10040.0, 11570.0], [2, 11570.0, 12850.0], [3, 12850.0, 14470.0], [4, 14470.0, 15695.0]]
+				},
+				{
+					"verse_key": "104:4",
+					"timestamp_from": 16180,
+					"timestamp_to": 22920,
+					"duration": -6740,
+					"segments": [[1, 16180.0, 17640.0], [2, 17660.0, 21240.0], [3, 21240.0, 21560.0], [4, 21560.0, 22525.0]]
+				},
+				{
+					"verse_key": "104:5",
+					"timestamp_from": 22920,
+					"timestamp_to": 27990,
+					"duration": -5070,
+					"segments": [[1, 22920.0, 25391.0], [2, 25391.0, 26420.0], [3, 26420.0, 26570.0], [4, 26570.0, 27645.0]]
+				},
+				{
+					"verse_key": "104:6",
+					"timestamp_from": 27990,
+					"timestamp_to": 31840,
+					"duration": -3850,
+					"segments": [[1, 27990.0, 29300.0], [2, 29300.0, 30280.0], [3, 30280.0, 31445.0]]
+				},
+				{
+					"verse_key": "104:7",
+					"timestamp_from": 31840,
+					"timestamp_to": 36730,
+					"duration": -4890,
+					"segments": [[1, 31840.0, 33530.0], [2, 33530.0, 34590.0], [3, 34590.0, 35070.0], [4, 35070.0, 36385.0]]
+				},
+				{
+					"verse_key": "104:8",
+					"timestamp_from": 36730,
+					"timestamp_to": 41990,
+					"duration": -5260,
+					"segments": [[1, 36730.0, 38810.0], [2, 38810.0, 40579.0], [3, 40579.0, 41615.0]]
+				},
+				{
+					"verse_key": "104:9",
+					"timestamp_from": 41990,
+					"timestamp_to": 45990,
+					"duration": -4000,
+					"segments": [[1, 41990.0, 42980.0], [2, 42980.0, 44406.0], [3, 44406.0, 45675.0]]
+				}
+			]
+		}
+	]
+}

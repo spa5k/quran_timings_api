@@ -1,0 +1,67 @@
+{
+	"audio_files": [
+		{
+			"id": 8024,
+			"chapter_id": 113,
+			"file_size": 1060992.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/siddiq_al-minshawi/mujawwad/113.mp3",
+			"duration": 37538,
+			"verse_timings": [
+				{
+					"verse_key": "113:1",
+					"timestamp_from": 0,
+					"timestamp_to": 5200,
+					"duration": -5200,
+					"segments": [[1, 50.0, 580.0], [2, 580.0, 2040.0], [3, 2040.0, 3570.0], [4, 3570.0, 5170.0]]
+				},
+				{
+					"verse_key": "113:2",
+					"timestamp_from": 5200,
+					"timestamp_to": 9330,
+					"duration": -4130,
+					"segments": [[1, 5250.0, 6278.0], [2, 6278.0, 7410.0], [3, 7410.0, 8200.0], [4, 8200.0, 9300.0]]
+				},
+				{
+					"verse_key": "113:3",
+					"timestamp_from": 9330,
+					"timestamp_to": 18890,
+					"duration": -9560,
+					"segments": [
+						[1, 9380.0, 10924.0],
+						[2, 10924.0, 12110.0],
+						[3, 12110.0, 14100.0],
+						[4, 14100.0, 15410.0],
+						[5, 15410.0, 16710.0]
+					]
+				},
+				{
+					"verse_key": "113:4",
+					"timestamp_from": 18890,
+					"timestamp_to": 29160,
+					"duration": -10270,
+					"segments": [
+						[1, 18890.0, 22384.0],
+						[2, 22384.0, 23420.0],
+						[3, 23420.0, 27210.0],
+						[4, 27210.0, 27680.0],
+						[5, 27680.0, 29120.0]
+					]
+				},
+				{
+					"verse_key": "113:5",
+					"timestamp_from": 29160,
+					"timestamp_to": 37550,
+					"duration": -8390,
+					"segments": [
+						[1, 29160.0, 30902.0],
+						[2, 30902.0, 32160.0],
+						[3, 32160.0, 34230.0],
+						[4, 34230.0, 35450.0],
+						[5, 35450.0, 36510.0]
+					]
+				}
+			]
+		}
+	]
+}

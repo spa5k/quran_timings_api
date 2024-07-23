@@ -1,0 +1,82 @@
+{
+	"audio_files": [
+		{
+			"id": 12143,
+			"chapter_id": 102,
+			"file_size": 1028224.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/102.mp3",
+			"duration": 38000,
+			"verse_timings": [
+				{
+					"verse_key": "102:1",
+					"timestamp_from": 0,
+					"timestamp_to": 2660,
+					"duration": 2590,
+					"segments": [[1, 0.0, 1290.0], [2, 1290.0, 2565.0]]
+				},
+				{
+					"verse_key": "102:2",
+					"timestamp_from": 2660,
+					"timestamp_to": 5740,
+					"duration": 3010,
+					"segments": [[1, 2660.0, 3430.0], [2, 3430.0, 4270.0], [3, 4270.0, 5645.0]]
+				},
+				{
+					"verse_key": "102:3",
+					"timestamp_from": 5740,
+					"timestamp_to": 8850,
+					"duration": 3030,
+					"segments": [[1, 5740.0, 6770.0], [2, 6770.0, 7510.0], [3, 7510.0, 8685.0]]
+				},
+				{
+					"verse_key": "102:4",
+					"timestamp_from": 8850,
+					"timestamp_to": 13630,
+					"duration": 4700,
+					"segments": [[1, 8850.0, 9760.0], [2, 9760.0, 10610.0], [3, 10610.0, 11360.0], [4, 11360.0, 13525.0]]
+				},
+				{
+					"verse_key": "102:5",
+					"timestamp_from": 13630,
+					"timestamp_to": 19040,
+					"duration": 5330,
+					"segments": [
+						[1, 13630.0, 14970.0],
+						[2, 14970.0, 15420.0],
+						[3, 15420.0, 16670.0],
+						[4, 16670.0, 17150.0],
+						[5, 17150.0, 18865.0]
+					]
+				},
+				{
+					"verse_key": "102:6",
+					"timestamp_from": 19040,
+					"timestamp_to": 23270,
+					"duration": 4150,
+					"segments": [[1, 19040.0, 21070.0], [2, 21070.0, 23165.0]]
+				},
+				{
+					"verse_key": "102:7",
+					"timestamp_from": 23270,
+					"timestamp_to": 29590,
+					"duration": 6240,
+					"segments": [[1, 23270.0, 24690.0], [2, 24690.0, 27020.0], [3, 27020.0, 27520.0], [4, 27520.0, 29485.0]]
+				},
+				{
+					"verse_key": "102:8",
+					"timestamp_from": 29590,
+					"timestamp_to": 38890,
+					"duration": 9220,
+					"segments": [
+						[1, 29590.0, 30910.0],
+						[2, 30910.0, 33040.0],
+						[3, 33040.0, 34650.0],
+						[4, 34650.0, 35220.0],
+						[5, 35220.0, 38615.0]
+					]
+				}
+			]
+		}
+	]
+}

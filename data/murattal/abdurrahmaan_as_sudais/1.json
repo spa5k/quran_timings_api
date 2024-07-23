@@ -1,0 +1,73 @@
+{
+	"audio_files": [
+		{
+			"id": 7470,
+			"chapter_id": 1,
+			"file_size": 1132672.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/murattal/1.mp3",
+			"duration": 41000,
+			"verse_timings": [
+				{
+					"verse_key": "1:1",
+					"timestamp_from": 0,
+					"timestamp_to": 4370,
+					"duration": -4370,
+					"segments": [[1, 0.0, 1040.0], [2, 1040.0, 1660.0], [3, 1660.0, 2610.0], [4, 2610.0, 4325.0]]
+				},
+				{
+					"verse_key": "1:2",
+					"timestamp_from": 4370,
+					"timestamp_to": 9680,
+					"duration": -5310,
+					"segments": [[1, 4370.0, 6090.0], [2, 6090.0, 6940.0], [3, 6940.0, 7400.0], [4, 7400.0, 9055.0]]
+				},
+				{
+					"verse_key": "1:3",
+					"timestamp_from": 9680,
+					"timestamp_to": 13710,
+					"duration": -4030,
+					"segments": [[1, 9680.0, 11652.0], [2, 11652.0, 13755.0]]
+				},
+				{
+					"verse_key": "1:4",
+					"timestamp_from": 13710,
+					"timestamp_to": 18260,
+					"duration": -4550,
+					"segments": [[1, 13710.0, 15770.0], [2, 15770.0, 16270.0], [3, 16270.0, 17645.0]]
+				},
+				{
+					"verse_key": "1:5",
+					"timestamp_from": 18260,
+					"timestamp_to": 23880,
+					"duration": -5620,
+					"segments": [[1, 18260.0, 19960.0], [2, 19960.0, 20730.0], [3, 20730.0, 21760.0], [4, 21760.0, 23245.0]]
+				},
+				{
+					"verse_key": "1:6",
+					"timestamp_from": 23880,
+					"timestamp_to": 28690,
+					"duration": -4810,
+					"segments": [[1, 23880.0, 25490.0], [2, 25490.0, 26300.0], [3, 26300.0, 28735.0]]
+				},
+				{
+					"verse_key": "1:7",
+					"timestamp_from": 28690,
+					"timestamp_to": 41830,
+					"duration": -13140,
+					"segments": [
+						[1, 28690.0, 31050.0],
+						[2, 31050.0, 31910.0],
+						[3, 31910.0, 32790.0],
+						[4, 32790.0, 33610.0],
+						[5, 33610.0, 34210.0],
+						[6, 34210.0, 35230.0],
+						[7, 35230.0, 36270.0],
+						[8, 36270.0, 36490.0],
+						[9, 36490.0, 41455.0]
+					]
+				}
+			]
+		}
+	]
+}

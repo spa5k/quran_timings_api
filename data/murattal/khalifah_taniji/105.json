@@ -1,0 +1,19 @@
+{
+	"audio_files": [
+		{
+			"id": 11347,
+			"chapter_id": 105,
+			"file_size": 686208.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/105.mp3",
+			"duration": 28000,
+			"verse_timings": [
+				{ "verse_key": "105:1", "timestamp_from": 4837, "timestamp_to": 10274, "duration": 5437, "segments": [] },
+				{ "verse_key": "105:2", "timestamp_from": 10274, "timestamp_to": 14024, "duration": 3750, "segments": [] },
+				{ "verse_key": "105:3", "timestamp_from": 14024, "timestamp_to": 18075, "duration": 4051, "segments": [] },
+				{ "verse_key": "105:4", "timestamp_from": 18075, "timestamp_to": 23836, "duration": 5761, "segments": [] },
+				{ "verse_key": "105:5", "timestamp_from": 23836, "timestamp_to": 28160, "duration": 4324, "segments": [] }
+			]
+		}
+	]
+}

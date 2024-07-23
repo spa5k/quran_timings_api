@@ -1,0 +1,63 @@
+{
+	"audio_files": [
+		{
+			"id": 10826,
+			"chapter_id": 105,
+			"file_size": 1394816.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/mujawwad/105.mp3",
+			"duration": 69000,
+			"verse_timings": [
+				{
+					"verse_key": "105:1",
+					"timestamp_from": 0,
+					"timestamp_to": 14950,
+					"duration": 14,
+					"segments": [
+						[1, 1550.0, 2410.0],
+						[2, 2420.0, 3160.0],
+						[3, 3170.0, 4430.0],
+						[4, 4440.0, 5650.0],
+						[5, 5660.0, 7330.0],
+						[6, 7340.0, 9770.0],
+						[7, 9780.0, 14050.0]
+					]
+				},
+				{
+					"verse_key": "105:2",
+					"timestamp_from": 14950,
+					"timestamp_to": 28750,
+					"duration": 13,
+					"segments": [
+						[1, 18100.0, 18670.0],
+						[2, 18680.0, 20280.0],
+						[3, 20290.0, 22180.0],
+						[4, 22190.0, 23020.0],
+						[5, 23030.0, 25110.0]
+					]
+				},
+				{
+					"verse_key": "105:3",
+					"timestamp_from": 28750,
+					"timestamp_to": 40900,
+					"duration": 12,
+					"segments": [[1, 29940.0, 31570.0], [2, 31580.0, 33780.0], [3, 33790.0, 35480.0], [4, 35490.0, 39480.0]]
+				},
+				{
+					"verse_key": "105:4",
+					"timestamp_from": 40900,
+					"timestamp_to": 56480,
+					"duration": 15,
+					"segments": [[1, 43550.0, 46370.0], [2, 46380.0, 50060.0], [3, 50070.0, 51100.0], [4, 51110.0, 52850.0]]
+				},
+				{
+					"verse_key": "105:5",
+					"timestamp_from": 56480,
+					"timestamp_to": 69080,
+					"duration": 12,
+					"segments": [[1, 58930.0, 61160.0], [2, 61170.0, 64150.0], [3, 64160.0, 65250.0]]
+				}
+			]
+		}
+	]
+}

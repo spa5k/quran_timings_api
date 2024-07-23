@@ -1,0 +1,208 @@
+{
+	"recitations": [
+		{
+			"id": 1,
+			"reciter_name": "AbdulBaset AbdulSamad",
+			"style": "Mujawwad",
+			"slug": "abdulbaset-abdulsamad-mujawwad",
+			"translated_name": {
+				"name": "AbdulBaset AbdulSamad",
+				"language_name": "english"
+			},
+			"folder_name": "Abdul_Basit_Mujawwad",
+			"quality": [128]
+		},
+		{
+			"id": 2,
+			"reciter_name": "AbdulBaset AbdulSamad",
+			"style": "Murattal",
+			"slug": "abdulbaset-abdulsamad-murattal",
+			"translated_name": {
+				"name": "AbdulBaset AbdulSamad",
+				"language_name": "english"
+			},
+			"folder_name": "Abdul_Basit_Murattal",
+			"quality": [192, 64]
+		},
+		{
+			"id": 3,
+			"reciter_name": "Abdur-Rahman as-Sudais",
+			"style": "",
+			"slug": "abdur-rahman-as-sudais",
+			"translated_name": {
+				"name": "Abdur-Rahman as-Sudais",
+				"language_name": "english"
+			},
+			"folder_name": "Abdurrahmaan_As-Sudais",
+			"quality": [192, 64]
+		},
+		{
+			"id": 4,
+			"reciter_name": "Abu Bakr al-Shatri",
+			"style": "",
+			"slug": "abu-bakr-al-shatri",
+			"translated_name": {
+				"name": "Abu Bakr al-Shatri",
+				"language_name": "english"
+			},
+			"folder_name": "Abu_Bakr_Ash-Shaatree",
+			"quality": [128, 64]
+		},
+		{
+			"id": 5,
+			"reciter_name": "Mahmoud Khalil Al-Husary",
+			"style": "",
+			"slug": "mahmoud-khalil-al-husary",
+			"translated_name": {
+				"name": "Mahmoud Khalil Al-Husary",
+				"language_name": "english"
+			},
+			"folder_name": "Husary",
+			"quality": [128, 64]
+		},
+		{
+			"id": 6,
+			"reciter_name": "Mohamed Siddiq al-Minshawi",
+			"style": "Murattal",
+			"slug": "mohamed-siddiq-al-minshawi-murattal",
+			"translated_name": {
+				"name": "Mohamed Siddiq al-Minshawi",
+				"language_name": "english"
+			},
+			"folder_name": "Minshawy_Murattal",
+			"quality": [128]
+		},
+		{
+			"id": 7,
+			"reciter_name": "Mohamed Siddiq al-Minshawi",
+			"style": "Mujawwad",
+			"slug": "mohamed-siddiq-al-minshawi-mujawwad",
+			"translated_name": {
+				"name": "Mohamed Siddiq al-Minshawi",
+				"language_name": "english"
+			},
+			"folder_name": "Minshawy_Murattal",
+			"quality": [192, 64]
+		},
+		{
+			"id": 8,
+			"reciter_name": "Sa`ud ash-Shuraym",
+			"style": "",
+			"slug": "sa-ud-ash-shuraym",
+			"translated_name": {
+				"name": "Sa`ud ash-Shuraym",
+				"language_name": "english"
+			},
+			"folder_name": "Saood_ash-Shuraym",
+			"quality": [128, 64]
+		},
+		{
+			"id": 9,
+			"reciter_name": "Mohamed al-Tablawi",
+			"style": "",
+			"slug": "mohamed-al-tablawi",
+			"translated_name": {
+				"name": "Mohamed al-Tablawi",
+				"language_name": "english"
+			},
+			"folder_name": "Mohammad_al_Tablaway",
+			"quality": [128, 64]
+		},
+		{
+			"id": 10,
+			"reciter_name": "Abdullah Awad Al Juhany",
+			"style": "",
+			"slug": "abdullah-awad-al-juhany",
+			"translated_name": {
+				"name": "Abdullah Awad Al Juhany",
+				"language_name": "english"
+			},
+			"folder_name": "Abdullaah_3awwaad_Al-Juhaynee",
+			"quality": [128]
+		},
+		{
+			"id": 11,
+			"reciter_name": "Abdullah Matroud",
+			"style": "",
+			"slug": "abdullah-matroud",
+			"translated_name": {
+				"name": "Abdullah Matroud",
+				"language_name": "english"
+			},
+			"folder_name": "Abdullah_Matroud",
+			"quality": [128]
+		},
+		{
+			"id": 12,
+			"reciter_name": "Ahmed Neena",
+			"style": "",
+			"slug": "ahmed-neena",
+			"translated_name": {
+				"name": "Ahmed Neena",
+				"language_name": "english"
+			},
+			"folder_name": "Ahmed_Neana",
+			"quality": [128]
+		},
+		{
+			"id": 13,
+			"reciter_name": "Akram Al Alaqimy",
+			"style": "",
+			"slug": "akram-al-alaqimy",
+			"translated_name": {
+				"name": "Akram Al Alaqimy",
+				"language_name": "english"
+			},
+			"folder_name": "Akram_AlAlaqimy",
+			"quality": [128]
+		},
+		{
+			"id": 14,
+			"reciter_name": "Ali Hajjaj Al Suesy",
+			"style": "",
+			"slug": "ali-hajjaj-al-suesy",
+			"translated_name": {
+				"name": "Ali Hajjaj Al Suesy",
+				"language_name": "english"
+			},
+			"folder_name": "Ali_Hajjaj_AlSuesy",
+			"quality": [128]
+		},
+		{
+			"id": 15,
+			"reciter_name": "Aziz Alili",
+			"style": "",
+			"slug": "aziz-alili",
+			"translated_name": {
+				"name": "Aziz Alili",
+				"language_name": "english"
+			},
+			"folder_name": "aziz_alili",
+			"quality": [128]
+		},
+		{
+			"id": 16,
+			"reciter_name": "Khaalid Abdullah Al Qahtani",
+			"style": "",
+			"slug": "khaalid-abdullah-al-qahtani",
+			"translated_name": {
+				"name": "Khaalid Abdullah Al Qahtani",
+				"language_name": "english"
+			},
+			"folder_name": "Khaalid_Abdullaah_al-Qahtaanee",
+			"quality": [192]
+		},
+		{
+			"id": 17,
+			"reciter_name": "Muhammad Ayyub Bin Muhammad Yusuf",
+			"style": "",
+			"slug": "muhammad-ayyub-bin-muhammad-yusuf",
+			"translated_name": {
+				"name": "Muhammad Ayyub Bin Muhammad Yusuf",
+				"language_name": "english"
+			},
+			"folder_name": "Muhammad_Ayyoub",
+			"quality": [32, 64, 128]
+		}
+	]
+}

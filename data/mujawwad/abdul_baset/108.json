@@ -1,0 +1,35 @@
+{
+	"audio_files": [
+		{
+			"id": 10829,
+			"chapter_id": 108,
+			"file_size": 714880.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/mujawwad/108.mp3",
+			"duration": 30000,
+			"verse_timings": [
+				{
+					"verse_key": "108:1",
+					"timestamp_from": 0,
+					"timestamp_to": 11110,
+					"duration": 11,
+					"segments": [[1, 1500.0, 4770.0], [2, 4780.0, 7810.0], [3, 7820.0, 9990.0]]
+				},
+				{
+					"verse_key": "108:2",
+					"timestamp_from": 11110,
+					"timestamp_to": 20570,
+					"duration": 9,
+					"segments": [[1, 14370.0, 15790.0], [2, 15800.0, 17860.0], [3, 17870.0, 19170.0]]
+				},
+				{
+					"verse_key": "108:3",
+					"timestamp_from": 20570,
+					"timestamp_to": 30110,
+					"duration": 9,
+					"segments": [[1, 24160.0, 24460.0], [2, 24470.0, 26880.0], [3, 26890.0, 27710.0], [4, 27720.0, 28830.0]]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"audio_files": [
+		{
+			"id": 679,
+			"chapter_id": 113,
+			"file_size": 1921152.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abu_bakr_shatri/murattal/113.mp3",
+			"duration": 19000,
+			"verse_timings": [
+				{
+					"verse_key": "113:1",
+					"timestamp_from": 0,
+					"timestamp_to": 3191,
+					"duration": -3191,
+					"segments": [[1, 0, 400], [2, 400, 1100], [3, 1100, 1890], [4, 1890, 3060]]
+				},
+				{
+					"verse_key": "113:2",
+					"timestamp_from": 3191,
+					"timestamp_to": 5986,
+					"duration": -2795,
+					"segments": [[1, 3191, 3501], [2, 3911, 4521], [3, 4541, 4901], [4, 4961, 5831]]
+				},
+				{
+					"verse_key": "113:3",
+					"timestamp_from": 5986,
+					"timestamp_to": 10256,
+					"duration": -4270,
+					"segments": [[1, 5986, 6486], [2, 6846, 7426], [3, 7446, 8446], [4, 8446, 9136], [5, 9156, 10126]]
+				},
+				{
+					"verse_key": "113:4",
+					"timestamp_from": 10256,
+					"timestamp_to": 15376,
+					"duration": -5120,
+					"segments": [[1, 10256, 10736], [2, 11216, 11926], [3, 11946, 13906], [4, 13906, 14096], [5, 14096, 15116]]
+				},
+				{
+					"verse_key": "113:5",
+					"timestamp_from": 15376,
+					"timestamp_to": 19941,
+					"duration": -4565,
+					"segments": [[1, 15376, 15936], [2, 16266, 16866], [3, 16946, 17896], [4, 17896, 18536], [5, 18576, 19466]]
+				}
+			]
+		}
+	]
+}

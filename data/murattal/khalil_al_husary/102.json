@@ -1,0 +1,82 @@
+{
+	"audio_files": [
+		{
+			"id": 11915,
+			"chapter_id": 102,
+			"file_size": 1177728.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/hani_ar_rifai/murattal/102.mp3",
+			"duration": 38000,
+			"verse_timings": [
+				{
+					"verse_key": "102:1",
+					"timestamp_from": 7,
+					"timestamp_to": 4122,
+					"duration": -4115,
+					"segments": [[1, 7.0, 2277.0], [2, 2277.0, 3642.0]]
+				},
+				{
+					"verse_key": "102:2",
+					"timestamp_from": 4129,
+					"timestamp_to": 6834,
+					"duration": -2705,
+					"segments": [[1, 4129.0, 4949.0], [2, 4949.0, 5819.0], [3, 5819.0, 7244.0]]
+				},
+				{
+					"verse_key": "102:3",
+					"timestamp_from": 6841,
+					"timestamp_to": 10517,
+					"duration": -3676,
+					"segments": [[1, 6841.0, 7581.0], [2, 7581.0, 8331.0], [3, 8331.0, 10346.0]]
+				},
+				{
+					"verse_key": "102:4",
+					"timestamp_from": 10524,
+					"timestamp_to": 15486,
+					"duration": -4962,
+					"segments": [[1, 10524.0, 11764.0], [2, 11764.0, 12634.0], [3, 12634.0, 13384.0], [4, 13384.0, 15489.0]]
+				},
+				{
+					"verse_key": "102:5",
+					"timestamp_from": 15493,
+					"timestamp_to": 20369,
+					"duration": -4876,
+					"segments": [
+						[1, 15493.0, 16393.0],
+						[2, 16393.0, 16713.0],
+						[3, 16713.0, 17933.0],
+						[4, 17933.0, 18563.0],
+						[5, 18563.0, 20278.0]
+					]
+				},
+				{
+					"verse_key": "102:6",
+					"timestamp_from": 20377,
+					"timestamp_to": 24046,
+					"duration": -3669,
+					"segments": [[1, 20377.0, 22067.0], [2, 22067.0, 23872.0]]
+				},
+				{
+					"verse_key": "102:7",
+					"timestamp_from": 24053,
+					"timestamp_to": 29858,
+					"duration": -5805,
+					"segments": [[1, 24053.0, 25273.0], [2, 25273.0, 27243.0], [3, 27243.0, 27823.0], [4, 27823.0, 29658.0]]
+				},
+				{
+					"verse_key": "102:8",
+					"timestamp_from": 29865,
+					"timestamp_to": 37490,
+					"duration": -7625,
+					"segments": [
+						[1, 29865.0, 30865.0],
+						[2, 30865.0, 32755.0],
+						[3, 32755.0, 34005.0],
+						[4, 34005.0, 34355.0],
+						[5, 34355.0, 37490.0]
+					]
+				}
+			]
+		}
+	]
+}

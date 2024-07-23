@@ -1,0 +1,135 @@
+{
+	"audio_files": [
+		{
+			"id": 12132,
+			"chapter_id": 91,
+			"file_size": 1462400.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/91.mp3",
+			"duration": 56000,
+			"verse_timings": [
+				{
+					"verse_key": "91:1",
+					"timestamp_from": 0,
+					"timestamp_to": 1960,
+					"duration": 1880,
+					"segments": [[1, 0.0, 870.0], [2, 870.0, 1855.0]]
+				},
+				{
+					"verse_key": "91:2",
+					"timestamp_from": 1960,
+					"timestamp_to": 4280,
+					"duration": 2250,
+					"segments": [[1, 1960.0, 2800.0], [2, 2800.0, 3290.0], [3, 3290.0, 4185.0]]
+				},
+				{
+					"verse_key": "91:3",
+					"timestamp_from": 4280,
+					"timestamp_to": 7550,
+					"duration": 3190,
+					"segments": [[1, 4280.0, 5510.0], [2, 5510.0, 5980.0], [3, 5980.0, 7265.0]]
+				},
+				{
+					"verse_key": "91:4",
+					"timestamp_from": 7550,
+					"timestamp_to": 10290,
+					"duration": 2670,
+					"segments": [[1, 7550.0, 8470.0], [2, 8470.0, 8990.0], [3, 8990.0, 10195.0]]
+				},
+				{
+					"verse_key": "91:5",
+					"timestamp_from": 10290,
+					"timestamp_to": 14130,
+					"duration": 3760,
+					"segments": [[1, 10290.0, 12300.0], [2, 12300.0, 12820.0], [3, 12820.0, 13845.0]]
+				},
+				{
+					"verse_key": "91:6",
+					"timestamp_from": 14130,
+					"timestamp_to": 17000,
+					"duration": 2800,
+					"segments": [[1, 14130.0, 15130.0], [2, 15130.0, 15520.0], [3, 15520.0, 16675.0]]
+				},
+				{
+					"verse_key": "91:7",
+					"timestamp_from": 17000,
+					"timestamp_to": 19640,
+					"duration": 2560,
+					"segments": [[1, 17000.0, 17810.0], [2, 17810.0, 18500.0], [3, 18500.0, 19535.0]]
+				},
+				{
+					"verse_key": "91:8",
+					"timestamp_from": 19640,
+					"timestamp_to": 23870,
+					"duration": 4150,
+					"segments": [[1, 19640.0, 21030.0], [2, 21030.0, 22150.0], [3, 22150.0, 23525.0]]
+				},
+				{
+					"verse_key": "91:9",
+					"timestamp_from": 23870,
+					"timestamp_to": 26800,
+					"duration": 2850,
+					"segments": [[1, 23870.0, 24250.0], [2, 24250.0, 25010.0], [3, 25010.0, 25600.0], [4, 25600.0, 26695.0]]
+				},
+				{
+					"verse_key": "91:10",
+					"timestamp_from": 26800,
+					"timestamp_to": 30350,
+					"duration": 3480,
+					"segments": [[1, 26800.0, 27400.0], [2, 27400.0, 28110.0], [3, 28110.0, 28890.0], [4, 28890.0, 30095.0]]
+				},
+				{
+					"verse_key": "91:11",
+					"timestamp_from": 30350,
+					"timestamp_to": 33850,
+					"duration": 3420,
+					"segments": [[1, 30350.0, 31210.0], [2, 31210.0, 31890.0], [3, 31890.0, 33745.0]]
+				},
+				{
+					"verse_key": "91:12",
+					"timestamp_from": 33850,
+					"timestamp_to": 36960,
+					"duration": 3030,
+					"segments": [[1, 33850.0, 34600.0], [2, 34600.0, 35500.0], [3, 35500.0, 36755.0]]
+				},
+				{
+					"verse_key": "91:13",
+					"timestamp_from": 36960,
+					"timestamp_to": 42990,
+					"duration": 5960,
+					"segments": [
+						[1, 36960.0, 37770.0],
+						[2, 37770.0, 38230.0],
+						[3, 38230.0, 39020.0],
+						[4, 39020.0, 39730.0],
+						[5, 39730.0, 40530.0],
+						[6, 40530.0, 41270.0],
+						[7, 41270.0, 42655.0]
+					]
+				},
+				{
+					"verse_key": "91:14",
+					"timestamp_from": 42990,
+					"timestamp_to": 52080,
+					"duration": 9010,
+					"segments": [
+						[1, 42990.0, 44170.0],
+						[2, 44170.0, 45410.0],
+						[3, 45410.0, 46320.0],
+						[4, 46320.0, 47510.0],
+						[5, 47510.0, 48710.0],
+						[6, 48710.0, 50080.0],
+						[7, 50080.0, 51775.0]
+					]
+				},
+				{
+					"verse_key": "91:15",
+					"timestamp_from": 52080,
+					"timestamp_to": 56830,
+					"duration": 4680,
+					"segments": [[1, 52080.0, 52930.0], [2, 52930.0, 54060.0], [3, 54060.0, 56735.0]]
+				}
+			]
+		}
+	]
+}

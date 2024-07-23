@@ -1,0 +1,48 @@
+{
+	"audio_files": [
+		{
+			"id": 11925,
+			"chapter_id": 112,
+			"file_size": 585856.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/hani_ar_rifai/murattal/112.mp3",
+			"duration": 12000,
+			"verse_timings": [
+				{
+					"verse_key": "112:1",
+					"timestamp_from": 7,
+					"timestamp_to": 3436,
+					"duration": -3429,
+					"segments": [[1, 7.0, 1217.0], [2, 1217.0, 1647.0], [3, 1647.0, 2477.0], [4, 2477.0, 3222.0]]
+				},
+				{
+					"verse_key": "112:2",
+					"timestamp_from": 3443,
+					"timestamp_to": 5726,
+					"duration": -2283,
+					"segments": [[1, 3443.0, 4433.0], [2, 4433.0, 5398.0]]
+				},
+				{
+					"verse_key": "112:3",
+					"timestamp_from": 5733,
+					"timestamp_to": 8891,
+					"duration": -3158,
+					"segments": [[1, 5733.0, 6303.0], [2, 6303.0, 6933.0], [3, 6933.0, 7633.0], [4, 7633.0, 8808.0]]
+				},
+				{
+					"verse_key": "112:4",
+					"timestamp_from": 8898,
+					"timestamp_to": 12823,
+					"duration": -3925,
+					"segments": [
+						[1, 8898.0, 9578.0],
+						[2, 9578.0, 10258.0],
+						[3, 10258.0, 10928.0],
+						[4, 10928.0, 11858.0],
+						[5, 11858.0, 12823.0]
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"audio_files": [
+		{
+			"id": 11349,
+			"chapter_id": 107,
+			"file_size": 700544.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/107.mp3",
+			"duration": 28000,
+			"verse_timings": [
+				{ "verse_key": "107:1", "timestamp_from": 4796, "timestamp_to": 8376, "duration": 3580, "segments": [] },
+				{ "verse_key": "107:2", "timestamp_from": 8376, "timestamp_to": 12076, "duration": 3700, "segments": [] },
+				{ "verse_key": "107:3", "timestamp_from": 12076, "timestamp_to": 15987, "duration": 3911, "segments": [] },
+				{ "verse_key": "107:4", "timestamp_from": 15987, "timestamp_to": 18507, "duration": 2520, "segments": [] },
+				{ "verse_key": "107:5", "timestamp_from": 18507, "timestamp_to": 22807, "duration": 4300, "segments": [] },
+				{ "verse_key": "107:6", "timestamp_from": 22807, "timestamp_to": 25834, "duration": 3027, "segments": [] },
+				{ "verse_key": "107:7", "timestamp_from": 25834, "timestamp_to": 28624, "duration": 2790, "segments": [] }
+			]
+		}
+	]
+}

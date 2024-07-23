@@ -1,0 +1,17 @@
+{
+	"audio_files": [
+		{
+			"id": 11350,
+			"chapter_id": 108,
+			"file_size": 387200.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/108.mp3",
+			"duration": 15000,
+			"verse_timings": [
+				{ "verse_key": "108:1", "timestamp_from": 4805, "timestamp_to": 9235, "duration": 4430, "segments": [] },
+				{ "verse_key": "108:2", "timestamp_from": 9235, "timestamp_to": 11900, "duration": 2665, "segments": [] },
+				{ "verse_key": "108:3", "timestamp_from": 11900, "timestamp_to": 15500, "duration": 3600, "segments": [] }
+			]
+		}
+	]
+}

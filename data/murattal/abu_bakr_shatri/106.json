@@ -1,0 +1,50 @@
+{
+	"audio_files": [
+		{
+			"id": 12147,
+			"chapter_id": 106,
+			"file_size": 733312.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/106.mp3",
+			"duration": 26000,
+			"verse_timings": [
+				{
+					"verse_key": "106:1",
+					"timestamp_from": 0,
+					"timestamp_to": 3740,
+					"duration": 3660,
+					"segments": [[1, 0.0, 1580.0], [2, 1580.0, 3425.0]]
+				},
+				{
+					"verse_key": "106:2",
+					"timestamp_from": 3740,
+					"timestamp_to": 10660,
+					"duration": 6850,
+					"segments": [[1, 3740.0, 5300.0], [2, 5300.0, 6050.0], [3, 6050.0, 8860.0], [4, 8860.0, 10445.0]]
+				},
+				{
+					"verse_key": "106:3",
+					"timestamp_from": 10660,
+					"timestamp_to": 16220,
+					"duration": 5490,
+					"segments": [[1, 10660.0, 12460.0], [2, 12460.0, 13020.0], [3, 13020.0, 14020.0], [4, 14020.0, 15975.0]]
+				},
+				{
+					"verse_key": "106:4",
+					"timestamp_from": 16220,
+					"timestamp_to": 26300,
+					"duration": 10010,
+					"segments": [
+						[1, 16220.0, 17810.0],
+						[2, 17810.0, 19150.0],
+						[3, 19150.0, 20470.0],
+						[4, 20470.0, 21600.0],
+						[5, 21600.0, 23240.0],
+						[6, 23240.0, 24590.0],
+						[7, 24590.0, 25765.0]
+					]
+				}
+			]
+		}
+	]
+}

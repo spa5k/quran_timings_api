@@ -1,0 +1,82 @@
+{
+	"audio_files": [
+		{
+			"id": 7571,
+			"chapter_id": 102,
+			"file_size": 1093760.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/murattal/102.mp3",
+			"duration": 41000,
+			"verse_timings": [
+				{
+					"verse_key": "102:1",
+					"timestamp_from": 0,
+					"timestamp_to": 3350,
+					"duration": -3350,
+					"segments": [[1, 0.0, 1550.0], [2, 1550.0, 3275.0]]
+				},
+				{
+					"verse_key": "102:2",
+					"timestamp_from": 3350,
+					"timestamp_to": 7380,
+					"duration": -4030,
+					"segments": [[1, 3350.0, 4680.0], [2, 4680.0, 5560.0], [3, 5560.0, 7265.0]]
+				},
+				{
+					"verse_key": "102:3",
+					"timestamp_from": 7380,
+					"timestamp_to": 11280,
+					"duration": -3900,
+					"segments": [[1, 7380.0, 8660.0], [2, 8660.0, 9370.0], [3, 9370.0, 10865.0]]
+				},
+				{
+					"verse_key": "102:4",
+					"timestamp_from": 11280,
+					"timestamp_to": 16540,
+					"duration": -5260,
+					"segments": [[1, 11280.0, 13080.0], [2, 13080.0, 13930.0], [3, 13930.0, 14680.0], [4, 14680.0, 16165.0]]
+				},
+				{
+					"verse_key": "102:5",
+					"timestamp_from": 16540,
+					"timestamp_to": 21930,
+					"duration": -5390,
+					"segments": [
+						[1, 16540.0, 17880.0],
+						[2, 17880.0, 18220.0],
+						[3, 18220.0, 19550.0],
+						[4, 19550.0, 20230.0],
+						[5, 20230.0, 21615.0]
+					]
+				},
+				{
+					"verse_key": "102:6",
+					"timestamp_from": 21930,
+					"timestamp_to": 25880,
+					"duration": -3950,
+					"segments": [[1, 21930.0, 24330.0], [2, 24330.0, 25625.0]]
+				},
+				{
+					"verse_key": "102:7",
+					"timestamp_from": 25880,
+					"timestamp_to": 32810,
+					"duration": -6930,
+					"segments": [[1, 25880.0, 28130.0], [2, 28130.0, 30290.0], [3, 30290.0, 31040.0], [4, 31040.0, 32285.0]]
+				},
+				{
+					"verse_key": "102:8",
+					"timestamp_from": 32810,
+					"timestamp_to": 41100,
+					"duration": -8290,
+					"segments": [
+						[1, 32810.0, 34880.0],
+						[2, 34880.0, 37060.0],
+						[3, 37060.0, 38270.0],
+						[4, 38270.0, 38860.0],
+						[5, 38860.0, 40795.0]
+					]
+				}
+			]
+		}
+	]
+}

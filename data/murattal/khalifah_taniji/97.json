@@ -1,0 +1,19 @@
+{
+	"audio_files": [
+		{
+			"id": 11339,
+			"chapter_id": 97,
+			"file_size": 753792.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/097.mp3",
+			"duration": 31000,
+			"verse_timings": [
+				{ "verse_key": "97:1", "timestamp_from": 4811, "timestamp_to": 10422, "duration": 5611, "segments": [] },
+				{ "verse_key": "97:2", "timestamp_from": 10422, "timestamp_to": 14672, "duration": 4250, "segments": [] },
+				{ "verse_key": "97:3", "timestamp_from": 14672, "timestamp_to": 18769, "duration": 4097, "segments": [] },
+				{ "verse_key": "97:4", "timestamp_from": 18769, "timestamp_to": 26820, "duration": 8051, "segments": [] },
+				{ "verse_key": "97:5", "timestamp_from": 26820, "timestamp_to": 31033, "duration": 4213, "segments": [] }
+			]
+		}
+	]
+}

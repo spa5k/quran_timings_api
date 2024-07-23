@@ -1,0 +1,18 @@
+{
+	"audio_files": [
+		{
+			"id": 11348,
+			"chapter_id": 106,
+			"file_size": 618624.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/106.mp3",
+			"duration": 25000,
+			"verse_timings": [
+				{ "verse_key": "106:1", "timestamp_from": 4802, "timestamp_to": 7362, "duration": 2560, "segments": [] },
+				{ "verse_key": "106:2", "timestamp_from": 7362, "timestamp_to": 13052, "duration": 5690, "segments": [] },
+				{ "verse_key": "106:3", "timestamp_from": 13052, "timestamp_to": 16223, "duration": 3171, "segments": [] },
+				{ "verse_key": "106:4", "timestamp_from": 16223, "timestamp_to": 25043, "duration": 8820, "segments": [] }
+			]
+		}
+	]
+}

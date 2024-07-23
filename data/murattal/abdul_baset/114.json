@@ -1,0 +1,62 @@
+{
+	"audio_files": [
+		{
+			"id": 10834,
+			"chapter_id": 114,
+			"file_size": 1345664.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/mujawwad/114.mp3",
+			"duration": 62000,
+			"verse_timings": [
+				{
+					"verse_key": "114:1",
+					"timestamp_from": 0,
+					"timestamp_to": 10140,
+					"duration": 10,
+					"segments": [[1, 2000.0, 2440.0], [2, 2450.0, 3900.0], [3, 3910.0, 6800.0], [4, 6810.0, 10080.0]]
+				},
+				{
+					"verse_key": "114:2",
+					"timestamp_from": 10140,
+					"timestamp_to": 18320,
+					"duration": 8,
+					"segments": [[1, 11990.0, 10190.0], [2, 14090.0, 18160.0]]
+				},
+				{
+					"verse_key": "114:3",
+					"timestamp_from": 18320,
+					"timestamp_to": 26030,
+					"duration": 7,
+					"segments": [[1, 19320.0, 20810.0], [2, 20820.0, 25930.0]]
+				},
+				{
+					"verse_key": "114:4",
+					"timestamp_from": 26030,
+					"timestamp_to": 39490,
+					"duration": 13,
+					"segments": [[1, 29110.0, 29940.0], [2, 29950.0, 31520.0], [3, 31530.0, 33760.0], [4, 33770.0, 39100.0]]
+				},
+				{
+					"verse_key": "114:5",
+					"timestamp_from": 39490,
+					"timestamp_to": 53160,
+					"duration": 13,
+					"segments": [
+						[1, 41540.0, 43620.0],
+						[2, 43630.0, 45650.0],
+						[3, 45660.0, 46580.0],
+						[4, 46590.0, 48330.0],
+						[5, 48340.0, 53100.0]
+					]
+				},
+				{
+					"verse_key": "114:6",
+					"timestamp_from": 53160,
+					"timestamp_to": 62310,
+					"duration": 9,
+					"segments": [[1, 54010.0, 54700.0], [2, 54710.0, 57310.0], [3, 57320.0, 62250.0]]
+				}
+			]
+		}
+	]
+}

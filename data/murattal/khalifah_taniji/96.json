@@ -1,0 +1,33 @@
+{
+	"audio_files": [
+		{
+			"id": 11338,
+			"chapter_id": 96,
+			"file_size": 1740928.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/096.mp3",
+			"duration": 72000,
+			"verse_timings": [
+				{ "verse_key": "96:1", "timestamp_from": 4728, "timestamp_to": 8493, "duration": 3765, "segments": [] },
+				{ "verse_key": "96:2", "timestamp_from": 8493, "timestamp_to": 11936, "duration": 3443, "segments": [] },
+				{ "verse_key": "96:3", "timestamp_from": 11936, "timestamp_to": 14786, "duration": 2850, "segments": [] },
+				{ "verse_key": "96:4", "timestamp_from": 14786, "timestamp_to": 17227, "duration": 2441, "segments": [] },
+				{ "verse_key": "96:5", "timestamp_from": 17227, "timestamp_to": 21564, "duration": 4337, "segments": [] },
+				{ "verse_key": "96:6", "timestamp_from": 21564, "timestamp_to": 26657, "duration": 5093, "segments": [] },
+				{ "verse_key": "96:7", "timestamp_from": 26657, "timestamp_to": 29147, "duration": 2490, "segments": [] },
+				{ "verse_key": "96:8", "timestamp_from": 29147, "timestamp_to": 32529, "duration": 3382, "segments": [] },
+				{ "verse_key": "96:9", "timestamp_from": 32529, "timestamp_to": 35489, "duration": 2960, "segments": [] },
+				{ "verse_key": "96:10", "timestamp_from": 35489, "timestamp_to": 37849, "duration": 2360, "segments": [] },
+				{ "verse_key": "96:11", "timestamp_from": 37849, "timestamp_to": 42259, "duration": 4410, "segments": [] },
+				{ "verse_key": "96:12", "timestamp_from": 42259, "timestamp_to": 44601, "duration": 2342, "segments": [] },
+				{ "verse_key": "96:13", "timestamp_from": 44601, "timestamp_to": 48626, "duration": 4025, "segments": [] },
+				{ "verse_key": "96:14", "timestamp_from": 48626, "timestamp_to": 53106, "duration": 4480, "segments": [] },
+				{ "verse_key": "96:15", "timestamp_from": 53106, "timestamp_to": 59003, "duration": 5897, "segments": [] },
+				{ "verse_key": "96:16", "timestamp_from": 59003, "timestamp_to": 63391, "duration": 4388, "segments": [] },
+				{ "verse_key": "96:17", "timestamp_from": 63391, "timestamp_to": 65402, "duration": 2011, "segments": [] },
+				{ "verse_key": "96:18", "timestamp_from": 65402, "timestamp_to": 67946, "duration": 2544, "segments": [] },
+				{ "verse_key": "96:19", "timestamp_from": 67946, "timestamp_to": 71796, "duration": 3850, "segments": [] }
+			]
+		}
+	]
+}

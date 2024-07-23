@@ -1,0 +1,70 @@
+{
+	"audio_files": [
+		{
+			"id": 8162,
+			"chapter_id": 94,
+			"file_size": 1851520.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/siddiq_al-minshawi/mujawwad/094.mp3",
+			"duration": 56059,
+			"verse_timings": [
+				{
+					"verse_key": "94:6",
+					"timestamp_from": 35320,
+					"timestamp_to": 43500,
+					"duration": -8180,
+					"segments": [[1, 35320.0, 37230.0], [2, 37230.0, 38090.0], [3, 38090.0, 40050.0], [4, 40050.0, 43330.0]]
+				},
+				{
+					"verse_key": "94:7",
+					"timestamp_from": 43500,
+					"timestamp_to": 50630,
+					"duration": -7130,
+					"segments": [[1, 43500.0, 46270.0], [2, 46270.0, 48110.0], [3, 48110.0, 50600.0]]
+				},
+				{
+					"verse_key": "94:1",
+					"timestamp_from": 0,
+					"timestamp_to": 7050,
+					"duration": -7050,
+					"segments": [[1, 0.0, 760.0], [2, 760.0, 2590.0], [3, 2590.0, 3600.0], [4, 3600.0, 6270.0]]
+				},
+				{
+					"verse_key": "94:2",
+					"timestamp_from": 7050,
+					"timestamp_to": 14190,
+					"duration": -7140,
+					"segments": [[1, 7050.0, 10880.0], [2, 10880.0, 12460.0], [3, 12460.0, 14040.0]]
+				},
+				{
+					"verse_key": "94:5",
+					"timestamp_from": 27070,
+					"timestamp_to": 35320,
+					"duration": -8250,
+					"segments": [[1, 27070.0, 31580.0], [2, 31580.0, 32300.0], [3, 32300.0, 34070.0], [4, 34070.0, 35290.0]]
+				},
+				{
+					"verse_key": "94:3",
+					"timestamp_from": 14190,
+					"timestamp_to": 19860,
+					"duration": -5670,
+					"segments": [[1, 14190.0, 16211.0], [2, 16211.0, 18770.0], [3, 18770.0, 19740.0]]
+				},
+				{
+					"verse_key": "94:4",
+					"timestamp_from": 19860,
+					"timestamp_to": 27070,
+					"duration": -7210,
+					"segments": [[1, 19860.0, 22240.0], [2, 22240.0, 22610.0], [3, 22610.0, 25470.0]]
+				},
+				{
+					"verse_key": "94:8",
+					"timestamp_from": 50630,
+					"timestamp_to": 56060,
+					"duration": -5430,
+					"segments": [[1, 50630.0, 52210.0], [2, 52210.0, 53600.0], [3, 53600.0, 55310.0]]
+				}
+			]
+		}
+	]
+}

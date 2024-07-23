@@ -1,0 +1,70 @@
+{
+	"audio_files": [
+		{
+			"id": 11907,
+			"chapter_id": 94,
+			"file_size": 940160.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/hani_ar_rifai/murattal/94.mp3",
+			"duration": 27000,
+			"verse_timings": [
+				{
+					"verse_key": "94:1",
+					"timestamp_from": 7,
+					"timestamp_to": 3662,
+					"duration": -3655,
+					"segments": [[1, 7.0, 1337.0], [2, 1337.0, 1967.0], [3, 1967.0, 2587.0], [4, 2587.0, 3492.0]]
+				},
+				{
+					"verse_key": "94:2",
+					"timestamp_from": 3669,
+					"timestamp_to": 6973,
+					"duration": -3304,
+					"segments": [[1, 3669.0, 4949.0], [2, 4949.0, 5919.0], [3, 5919.0, 6804.0]]
+				},
+				{
+					"verse_key": "94:3",
+					"timestamp_from": 6980,
+					"timestamp_to": 10781,
+					"duration": -3801,
+					"segments": [[1, 6980.0, 8530.0], [2, 8530.0, 9810.0], [3, 9810.0, 10665.0]]
+				},
+				{
+					"verse_key": "94:4",
+					"timestamp_from": 10788,
+					"timestamp_to": 13867,
+					"duration": -3079,
+					"segments": [[1, 10788.0, 12118.0], [2, 12118.0, 12528.0], [3, 12528.0, 13573.0]]
+				},
+				{
+					"verse_key": "94:5",
+					"timestamp_from": 13874,
+					"timestamp_to": 17397,
+					"duration": -3523,
+					"segments": [[1, 13874.0, 15094.0], [2, 15094.0, 15474.0], [3, 15474.0, 16354.0], [4, 16354.0, 17459.0]]
+				},
+				{
+					"verse_key": "94:6",
+					"timestamp_from": 17405,
+					"timestamp_to": 20966,
+					"duration": -3561,
+					"segments": [[1, 17405.0, 18605.0], [2, 18605.0, 19065.0], [3, 19065.0, 19895.0], [4, 19895.0, 21050.0]]
+				},
+				{
+					"verse_key": "94:7",
+					"timestamp_from": 20973,
+					"timestamp_to": 24410,
+					"duration": -3437,
+					"segments": [[1, 20973.0, 21663.0], [2, 21663.0, 22563.0], [3, 22563.0, 24268.0]]
+				},
+				{
+					"verse_key": "94:8",
+					"timestamp_from": 24417,
+					"timestamp_to": 27452,
+					"duration": -3035,
+					"segments": [[1, 24417.0, 25167.0], [2, 25167.0, 26167.0], [3, 26167.0, 27452.0]]
+				}
+			]
+		}
+	]
+}

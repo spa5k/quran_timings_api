@@ -1,0 +1,82 @@
+{
+	"audio_files": [
+		{
+			"id": 8013,
+			"chapter_id": 102,
+			"file_size": 1779840.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/siddiq_al-minshawi/mujawwad/102.mp3",
+			"duration": 66560,
+			"verse_timings": [
+				{
+					"verse_key": "102:1",
+					"timestamp_from": 0,
+					"timestamp_to": 4600,
+					"duration": -4600,
+					"segments": [[1, 50.0, 2120.0], [2, 2120.0, 4570.0]]
+				},
+				{
+					"verse_key": "102:2",
+					"timestamp_from": 4600,
+					"timestamp_to": 12040,
+					"duration": -7440,
+					"segments": [[1, 4650.0, 6170.0], [2, 6170.0, 7930.0], [3, 7930.0, 10090.0]]
+				},
+				{
+					"verse_key": "102:3",
+					"timestamp_from": 12040,
+					"timestamp_to": 17710,
+					"duration": -5670,
+					"segments": [[1, 12040.0, 14410.0], [2, 14410.0, 15350.0], [3, 15350.0, 17600.0]]
+				},
+				{
+					"verse_key": "102:5",
+					"timestamp_from": 26880,
+					"timestamp_to": 35970,
+					"duration": -9090,
+					"segments": [
+						[1, 26880.0, 29790.0],
+						[2, 29790.0, 30490.0],
+						[3, 30490.0, 32760.0],
+						[4, 32760.0, 34020.0],
+						[5, 34020.0, 35940.0]
+					]
+				},
+				{
+					"verse_key": "102:4",
+					"timestamp_from": 17710,
+					"timestamp_to": 26880,
+					"duration": -9170,
+					"segments": [[1, 17760.0, 19660.0], [2, 19660.0, 21190.0], [3, 21190.0, 22290.0], [4, 22290.0, 25030.0]]
+				},
+				{
+					"verse_key": "102:7",
+					"timestamp_from": 41010,
+					"timestamp_to": 52370,
+					"duration": -11360,
+					"segments": [[1, 41050.0, 43180.0], [2, 43180.0, 47060.0], [3, 47060.0, 48260.0], [4, 48260.0, 51220.0]]
+				},
+				{
+					"verse_key": "102:6",
+					"timestamp_from": 35970,
+					"timestamp_to": 41010,
+					"duration": -5040,
+					"segments": [[1, 35970.0, 39060.0], [2, 39060.0, 40980.0]]
+				},
+				{
+					"verse_key": "102:8",
+					"timestamp_from": 52370,
+					"timestamp_to": 66550,
+					"duration": -14180,
+					"segments": [
+						[1, 52370.0, 56420.0],
+						[2, 56420.0, 59720.0],
+						[3, 59720.0, 62200.0],
+						[4, 62200.0, 63110.0],
+						[5, 63110.0, 65890.0]
+					]
+				}
+			]
+		}
+	]
+}

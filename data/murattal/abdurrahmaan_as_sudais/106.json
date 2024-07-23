@@ -1,0 +1,50 @@
+{
+	"audio_files": [
+		{
+			"id": 7575,
+			"chapter_id": 106,
+			"file_size": 727168.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/murattal/106.mp3",
+			"duration": 25000,
+			"verse_timings": [
+				{
+					"verse_key": "106:1",
+					"timestamp_from": 0,
+					"timestamp_to": 3400,
+					"duration": -3400,
+					"segments": [[1, 0.0, 1730.0], [2, 1730.0, 3345.0]]
+				},
+				{
+					"verse_key": "106:2",
+					"timestamp_from": 3400,
+					"timestamp_to": 10280,
+					"duration": -6880,
+					"segments": [[1, 3400.0, 5110.0], [2, 5110.0, 6040.0], [3, 6040.0, 8310.0], [4, 8310.0, 9915.0]]
+				},
+				{
+					"verse_key": "106:3",
+					"timestamp_from": 10280,
+					"timestamp_to": 15300,
+					"duration": -5020,
+					"segments": [[1, 10280.0, 12480.0], [2, 12480.0, 13090.0], [3, 13090.0, 13790.0], [4, 13790.0, 15215.0]]
+				},
+				{
+					"verse_key": "106:4",
+					"timestamp_from": 15300,
+					"timestamp_to": 25880,
+					"duration": -10580,
+					"segments": [
+						[1, 15300.0, 17870.0],
+						[2, 17870.0, 19613.0],
+						[3, 19613.0, 20660.0],
+						[4, 20660.0, 22092.0],
+						[5, 22092.0, 24101.0],
+						[6, 24101.0, 24500.0],
+						[7, 24500.0, 25555.0]
+					]
+				}
+			]
+		}
+	]
+}

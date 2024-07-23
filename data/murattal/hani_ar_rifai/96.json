@@ -1,0 +1,154 @@
+{
+	"audio_files": [
+		{
+			"id": 645,
+			"chapter_id": 96,
+			"file_size": 1147008.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abu_bakr_shatri/murattal/96.mp3",
+			"duration": 73000,
+			"verse_timings": [
+				{
+					"verse_key": "96:1",
+					"timestamp_from": 0,
+					"timestamp_to": 3599,
+					"duration": -3599,
+					"segments": [[1, 0, 500], [2, 500, 980], [3, 980, 1630], [4, 1630, 2450], [5, 2450, 3280]]
+				},
+				{
+					"verse_key": "96:2",
+					"timestamp_from": 3599,
+					"timestamp_to": 7260,
+					"duration": -3661,
+					"segments": [[1, 3599, 4209], [2, 4209, 5759], [3, 5759, 6109], [4, 6109, 7089]]
+				},
+				{
+					"verse_key": "96:3",
+					"timestamp_from": 7260,
+					"timestamp_to": 9930,
+					"duration": -2670,
+					"segments": [[1, 7260, 7810], [2, 7810, 8690], [3, 8690, 9600]]
+				},
+				{
+					"verse_key": "96:4",
+					"timestamp_from": 9930,
+					"timestamp_to": 12706,
+					"duration": -2776,
+					"segments": [[1, 9930, 10580], [2, 10580, 11270], [3, 11330, 12450]]
+				},
+				{
+					"verse_key": "96:5",
+					"timestamp_from": 12706,
+					"timestamp_to": 17141,
+					"duration": -4435,
+					"segments": [[1, 12706, 13356], [2, 13356, 15206], [3, 15206, 15516], [4, 15536, 15856], [5, 15876, 16726]]
+				},
+				{
+					"verse_key": "96:6",
+					"timestamp_from": 17141,
+					"timestamp_to": 23565,
+					"duration": -6424,
+					"segments": [[1, 17141, 18911], [2, 18911, 20031], [3, 20031, 21651], [4, 21731, 23401]]
+				},
+				{
+					"verse_key": "96:7",
+					"timestamp_from": 23565,
+					"timestamp_to": 26583,
+					"duration": -3018,
+					"segments": [[1, 23565, 23655], [2, 23655, 24745], [3, 24815, 26235]]
+				},
+				{
+					"verse_key": "96:8",
+					"timestamp_from": 26583,
+					"timestamp_to": 30998,
+					"duration": -4415,
+					"segments": [[1, 26583, 27953], [2, 27953, 28443], [3, 28443, 29233], [4, 29233, 30833]]
+				},
+				{
+					"verse_key": "96:9",
+					"timestamp_from": 30998,
+					"timestamp_to": 34009,
+					"duration": -3011,
+					"segments": [[1, 30998, 31908], [2, 31908, 32528], [3, 32528, 33888]]
+				},
+				{
+					"verse_key": "96:10",
+					"timestamp_from": 34009,
+					"timestamp_to": 36793,
+					"duration": -2784,
+					"segments": [[1, 34009, 34799], [2, 34799, 35199], [3, 35329, 36639]]
+				},
+				{
+					"verse_key": "96:11",
+					"timestamp_from": 36793,
+					"timestamp_to": 40806,
+					"duration": -4013,
+					"segments": [[1, 36793, 37753], [2, 37753, 38613], [3, 38613, 39153], [4, 39153, 39473], [5, 39473, 40703]]
+				},
+				{
+					"verse_key": "96:12",
+					"timestamp_from": 40806,
+					"timestamp_to": 43487,
+					"duration": -2681,
+					"segments": [[1, 40806, 41136], [2, 41136, 41756], [3, 41776, 43316]]
+				},
+				{
+					"verse_key": "96:13",
+					"timestamp_from": 43487,
+					"timestamp_to": 47872,
+					"duration": -4385,
+					"segments": [[1, 43487, 44497], [2, 44497, 45297], [3, 45297, 46127], [4, 46147, 47697]]
+				},
+				{
+					"verse_key": "96:14",
+					"timestamp_from": 47872,
+					"timestamp_to": 52864,
+					"duration": -4992,
+					"segments": [[1, 47872, 48402], [2, 48402, 49102], [3, 49762, 50892], [4, 50892, 51672], [5, 51772, 52722]]
+				},
+				{
+					"verse_key": "96:15",
+					"timestamp_from": 52864,
+					"timestamp_to": 59615,
+					"duration": -6751,
+					"segments": [
+						[1, 52864, 53594],
+						[2, 53594, 54064],
+						[3, 54064, 54524],
+						[4, 54524, 55794],
+						[5, 55814, 57344],
+						[6, 57374, 59424]
+					]
+				},
+				{
+					"verse_key": "96:16",
+					"timestamp_from": 59615,
+					"timestamp_to": 63870,
+					"duration": -4255,
+					"segments": [[1, 59615, 61325], [2, 61325, 62525], [3, 62525, 63685]]
+				},
+				{
+					"verse_key": "96:17",
+					"timestamp_from": 63870,
+					"timestamp_to": 66248,
+					"duration": -2378,
+					"segments": [[1, 63870, 64830], [2, 64830, 66020]]
+				},
+				{
+					"verse_key": "96:18",
+					"timestamp_from": 66248,
+					"timestamp_to": 68853,
+					"duration": -2605,
+					"segments": [[1, 66248, 67068], [2, 67068, 68758]]
+				},
+				{
+					"verse_key": "96:19",
+					"timestamp_from": 68853,
+					"timestamp_to": 73697,
+					"duration": -4844,
+					"segments": [[1, 68853, 69603], [2, 69623, 70083], [3, 70103, 70973], [4, 70993, 71903], [5, 71923, 73333]]
+				}
+			]
+		}
+	]
+}

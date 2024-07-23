@@ -1,0 +1,91 @@
+{
+	"audio_files": [
+		{
+			"id": 651,
+			"chapter_id": 99,
+			"file_size": 540800.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abu_bakr_shatri/murattal/99.mp3",
+			"duration": 41000,
+			"verse_timings": [
+				{
+					"verse_key": "99:1",
+					"timestamp_from": 0,
+					"timestamp_to": 4498,
+					"duration": -4498,
+					"segments": [[1, 0, 520], [2, 560, 1660], [3, 1660, 2440], [4, 2440, 4310]]
+				},
+				{
+					"verse_key": "99:2",
+					"timestamp_from": 4498,
+					"timestamp_to": 8664,
+					"duration": -4166,
+					"segments": [[1, 4498, 5748], [2, 5748, 6528], [3, 6528, 8488]]
+				},
+				{
+					"verse_key": "99:3",
+					"timestamp_from": 8664,
+					"timestamp_to": 12867,
+					"duration": -4203,
+					"segments": [[1, 8664, 9374], [2, 9374, 11204], [3, 11204, 11534], [4, 11564, 12754]]
+				},
+				{
+					"verse_key": "99:4",
+					"timestamp_from": 12867,
+					"timestamp_to": 17601,
+					"duration": -4734,
+					"segments": [[1, 12867, 14527], [2, 14527, 15517], [3, 15537, 17477]]
+				},
+				{
+					"verse_key": "99:5",
+					"timestamp_from": 17601,
+					"timestamp_to": 21602,
+					"duration": -4001,
+					"segments": [[1, 17601, 18731], [2, 18731, 19511], [3, 19511, 20331], [4, 20351, 21401]]
+				},
+				{
+					"verse_key": "99:6",
+					"timestamp_from": 21602,
+					"timestamp_to": 28784,
+					"duration": -7182,
+					"segments": [
+						[1, 21602, 22832],
+						[2, 22832, 24082],
+						[3, 24082, 25052],
+						[4, 25142, 26062],
+						[5, 26062, 26992],
+						[6, 27012, 28522]
+					]
+				},
+				{
+					"verse_key": "99:7",
+					"timestamp_from": 28784,
+					"timestamp_to": 34748,
+					"duration": -5964,
+					"segments": [
+						[1, 28784, 29164],
+						[2, 29164, 30344],
+						[3, 30344, 31384],
+						[4, 31384, 32324],
+						[5, 32384, 33554],
+						[6, 33574, 34454]
+					]
+				},
+				{
+					"verse_key": "99:8",
+					"timestamp_from": 34748,
+					"timestamp_to": 41277,
+					"duration": -6529,
+					"segments": [
+						[1, 34748, 35178],
+						[2, 35178, 36498],
+						[3, 36498, 37508],
+						[4, 37508, 38768],
+						[5, 38768, 40078],
+						[6, 40098, 40898]
+					]
+				}
+			]
+		}
+	]
+}

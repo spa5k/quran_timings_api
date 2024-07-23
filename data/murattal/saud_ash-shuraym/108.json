@@ -1,0 +1,35 @@
+{
+	"audio_files": [
+		{
+			"id": 8019,
+			"chapter_id": 108,
+			"file_size": 911488.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/siddiq_al-minshawi/mujawwad/108.mp3",
+			"duration": 29989,
+			"verse_timings": [
+				{
+					"verse_key": "108:1",
+					"timestamp_from": 0,
+					"timestamp_to": 13090,
+					"duration": -13090,
+					"segments": [[1, 0.0, 6471.0], [2, 6471.0, 9080.0], [3, 9080.0, 11800.0]]
+				},
+				{
+					"verse_key": "108:2",
+					"timestamp_from": 13090,
+					"timestamp_to": 20480,
+					"duration": -7390,
+					"segments": [[1, 13090.0, 15910.0], [2, 15910.0, 18000.0], [3, 18000.0, 19450.0]]
+				},
+				{
+					"verse_key": "108:3",
+					"timestamp_from": 20480,
+					"timestamp_to": 29990,
+					"duration": -9510,
+					"segments": [[1, 20480.0, 24780.0], [2, 24780.0, 26470.0], [3, 26470.0, 27178.0], [4, 27178.0, 29170.0]]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"audio_files": [
+		{
+			"id": 11340,
+			"chapter_id": 98,
+			"file_size": 2259072.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/098.mp3",
+			"duration": 93000,
+			"verse_timings": [
+				{ "verse_key": "98:1", "timestamp_from": 4745, "timestamp_to": 15236, "duration": 10491, "segments": [] },
+				{ "verse_key": "98:2", "timestamp_from": 15236, "timestamp_to": 20577, "duration": 5341, "segments": [] },
+				{ "verse_key": "98:3", "timestamp_from": 20577, "timestamp_to": 23747, "duration": 3170, "segments": [] },
+				{ "verse_key": "98:4", "timestamp_from": 23747, "timestamp_to": 33548, "duration": 9801, "segments": [] },
+				{ "verse_key": "98:5", "timestamp_from": 33548, "timestamp_to": 50030, "duration": 16482, "segments": [] },
+				{ "verse_key": "98:6", "timestamp_from": 50030, "timestamp_to": 64945, "duration": 14915, "segments": [] },
+				{ "verse_key": "98:7", "timestamp_from": 64945, "timestamp_to": 73595, "duration": 8650, "segments": [] },
+				{ "verse_key": "98:8", "timestamp_from": 73595, "timestamp_to": 93727, "duration": 20132, "segments": [] }
+			]
+		}
+	]
+}

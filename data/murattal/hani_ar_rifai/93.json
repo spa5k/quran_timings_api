@@ -1,0 +1,91 @@
+{
+	"audio_files": [
+		{
+			"id": 639,
+			"chapter_id": 93,
+			"file_size": 622720.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abu_bakr_shatri/murattal/93.mp3",
+			"duration": 45000,
+			"verse_timings": [
+				{
+					"verse_key": "93:1",
+					"timestamp_from": 0,
+					"timestamp_to": 1625,
+					"duration": -1625,
+					"segments": [[1, 0, 1460]]
+				},
+				{
+					"verse_key": "93:2",
+					"timestamp_from": 1625,
+					"timestamp_to": 4139,
+					"duration": -2514,
+					"segments": [[1, 1625, 2545], [2, 2545, 3015], [3, 3155, 4045]]
+				},
+				{
+					"verse_key": "93:3",
+					"timestamp_from": 4139,
+					"timestamp_to": 7860,
+					"duration": -3721,
+					"segments": [[1, 4139, 4519], [2, 4589, 5459], [3, 5459, 6279], [4, 6279, 6849], [5, 6869, 7709]]
+				},
+				{
+					"verse_key": "93:4",
+					"timestamp_from": 7860,
+					"timestamp_to": 12426,
+					"duration": -4566,
+					"segments": [[1, 7860, 9410], [2, 9410, 9940], [3, 9940, 10410], [4, 10410, 10720], [5, 10720, 12220]]
+				},
+				{
+					"verse_key": "93:5",
+					"timestamp_from": 12426,
+					"timestamp_to": 16752,
+					"duration": -4326,
+					"segments": [[1, 12426, 13336], [2, 13416, 14266], [3, 14266, 15086], [4, 15086, 16436]]
+				},
+				{
+					"verse_key": "93:6",
+					"timestamp_from": 16752,
+					"timestamp_to": 21255,
+					"duration": -4503,
+					"segments": [[1, 16752, 17162], [2, 17162, 18002], [3, 18042, 18892], [4, 19462, 21092]]
+				},
+				{
+					"verse_key": "93:7",
+					"timestamp_from": 21255,
+					"timestamp_to": 26588,
+					"duration": -5333,
+					"segments": [[1, 21255, 22165], [2, 22165, 25125], [3, 25125, 26315]]
+				},
+				{
+					"verse_key": "93:8",
+					"timestamp_from": 26588,
+					"timestamp_to": 31599,
+					"duration": -5011,
+					"segments": [[1, 26588, 27568], [2, 27568, 29988], [3, 29988, 31378]]
+				},
+				{
+					"verse_key": "93:9",
+					"timestamp_from": 31599,
+					"timestamp_to": 35702,
+					"duration": -4103,
+					"segments": [[1, 31599, 32769], [2, 32769, 33789], [3, 33889, 34519], [4, 34519, 35579]]
+				},
+				{
+					"verse_key": "93:10",
+					"timestamp_from": 35702,
+					"timestamp_to": 40697,
+					"duration": -4995,
+					"segments": [[1, 35702, 36872], [2, 36872, 38902], [3, 38902, 39452], [4, 39452, 40582]]
+				},
+				{
+					"verse_key": "93:11",
+					"timestamp_from": 40697,
+					"timestamp_to": 45714,
+					"duration": -5017,
+					"segments": [[1, 40697, 42177], [2, 42197, 43177], [3, 43177, 44007], [4, 44057, 45257]]
+				}
+			]
+		}
+	]
+}

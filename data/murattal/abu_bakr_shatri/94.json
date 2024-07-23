@@ -1,0 +1,70 @@
+{
+	"audio_files": [
+		{
+			"id": 12135,
+			"chapter_id": 94,
+			"file_size": 637056.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/94.mp3",
+			"duration": 22000,
+			"verse_timings": [
+				{
+					"verse_key": "94:1",
+					"timestamp_from": 0,
+					"timestamp_to": 2400,
+					"duration": 2330,
+					"segments": [[1, 0.0, 580.0], [2, 580.0, 1200.0], [3, 1200.0, 1580.0], [4, 1580.0, 2305.0]]
+				},
+				{
+					"verse_key": "94:2",
+					"timestamp_from": 2400,
+					"timestamp_to": 5040,
+					"duration": 2560,
+					"segments": [[1, 2400.0, 3470.0], [2, 3470.0, 4300.0], [3, 4300.0, 4935.0]]
+				},
+				{
+					"verse_key": "94:3",
+					"timestamp_from": 5040,
+					"timestamp_to": 7760,
+					"duration": 2640,
+					"segments": [[1, 5040.0, 5830.0], [2, 5830.0, 6810.0], [3, 6810.0, 7605.0]]
+				},
+				{
+					"verse_key": "94:4",
+					"timestamp_from": 7760,
+					"timestamp_to": 10270,
+					"duration": 2430,
+					"segments": [[1, 7760.0, 8730.0], [2, 8730.0, 9090.0], [3, 9090.0, 9985.0]]
+				},
+				{
+					"verse_key": "94:5",
+					"timestamp_from": 10270,
+					"timestamp_to": 13090,
+					"duration": 2740,
+					"segments": [[1, 10270.0, 11240.0], [2, 11240.0, 11610.0], [3, 11610.0, 12380.0], [4, 12380.0, 12985.0]]
+				},
+				{
+					"verse_key": "94:6",
+					"timestamp_from": 13090,
+					"timestamp_to": 16220,
+					"duration": 3060,
+					"segments": [[1, 13090.0, 13950.0], [2, 13950.0, 14330.0], [3, 14330.0, 15120.0], [4, 15120.0, 16115.0]]
+				},
+				{
+					"verse_key": "94:7",
+					"timestamp_from": 16220,
+					"timestamp_to": 19510,
+					"duration": 3210,
+					"segments": [[1, 16220.0, 17050.0], [2, 17050.0, 17810.0], [3, 17810.0, 19405.0]]
+				},
+				{
+					"verse_key": "94:8",
+					"timestamp_from": 19510,
+					"timestamp_to": 22700,
+					"duration": 3110,
+					"segments": [[1, 19510.0, 20230.0], [2, 20230.0, 21150.0], [3, 21150.0, 22445.0]]
+				}
+			]
+		}
+	]
+}

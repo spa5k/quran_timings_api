@@ -1,0 +1,97 @@
+{
+	"audio_files": [
+		{
+			"id": 8012,
+			"chapter_id": 101,
+			"file_size": 2302080.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/siddiq_al-minshawi/mujawwad/101.mp3",
+			"duration": 87171,
+			"verse_timings": [
+				{
+					"verse_key": "101:1",
+					"timestamp_from": 0,
+					"timestamp_to": 2510,
+					"duration": -2510,
+					"segments": [[1, 0.0, 2360.0]]
+				},
+				{
+					"verse_key": "101:2",
+					"timestamp_from": 2510,
+					"timestamp_to": 5640,
+					"duration": -3130,
+					"segments": [[1, 2510.0, 2790.0], [2, 2790.0, 5610.0]]
+				},
+				{
+					"verse_key": "101:3",
+					"timestamp_from": 5640,
+					"timestamp_to": 14970,
+					"duration": -9330,
+					"segments": [[1, 5640.0, 7822.0], [2, 7822.0, 9370.0], [3, 9370.0, 9780.0], [4, 9780.0, 12680.0]]
+				},
+				{
+					"verse_key": "101:4",
+					"timestamp_from": 14970,
+					"timestamp_to": 26860,
+					"duration": -11890,
+					"segments": [
+						[1, 14970.0, 17390.0],
+						[2, 17390.0, 19150.0],
+						[3, 19150.0, 21520.0],
+						[4, 21520.0, 24200.0],
+						[5, 24200.0, 26820.0]
+					]
+				},
+				{
+					"verse_key": "101:5",
+					"timestamp_from": 26860,
+					"timestamp_to": 40910,
+					"duration": -14050,
+					"segments": [[1, 26910.0, 29160.0], [2, 29160.0, 31410.0], [3, 31410.0, 33700.0], [4, 33700.0, 39750.0]]
+				},
+				{
+					"verse_key": "101:6",
+					"timestamp_from": 40910,
+					"timestamp_to": 51990,
+					"duration": -11080,
+					"segments": [[1, 40910.0, 44920.0], [2, 44920.0, 46746.0], [3, 46746.0, 48540.0], [4, 48540.0, 51950.0]]
+				},
+				{
+					"verse_key": "101:7",
+					"timestamp_from": 51990,
+					"timestamp_to": 60870,
+					"duration": -8880,
+					"segments": [[1, 51990.0, 53420.0], [2, 53420.0, 54390.0], [3, 54390.0, 56502.0], [4, 56502.0, 59240.0]]
+				},
+				{
+					"verse_key": "101:8",
+					"timestamp_from": 60870,
+					"timestamp_to": 69750,
+					"duration": -8880,
+					"segments": [[1, 60870.0, 64170.0], [2, 64170.0, 65000.0], [3, 65000.0, 66420.0], [4, 66420.0, 69720.0]]
+				},
+				{
+					"verse_key": "101:9",
+					"timestamp_from": 69750,
+					"timestamp_to": 76880,
+					"duration": -7130,
+					"segments": [[1, 69800.0, 72980.0], [2, 72980.0, 75500.0]]
+				},
+				{
+					"verse_key": "101:10",
+					"timestamp_from": 76880,
+					"timestamp_to": 83020,
+					"duration": -6140,
+					"segments": [[1, 76880.0, 79598.0], [2, 79598.0, 81150.0], [3, 81150.0, 81320.0], [4, 81320.0, 82990.0]]
+				},
+				{
+					"verse_key": "101:11",
+					"timestamp_from": 83020,
+					"timestamp_to": 87170,
+					"duration": -4150,
+					"segments": [[1, 83020.0, 84580.0], [2, 84580.0, 86930.0]]
+				}
+			]
+		}
+	]
+}

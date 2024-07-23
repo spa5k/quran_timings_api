@@ -1,0 +1,25 @@
+{
+	"audio_files": [
+		{
+			"id": 11343,
+			"chapter_id": 101,
+			"file_size": 1030272.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/101.mp3",
+			"duration": 42000,
+			"verse_timings": [
+				{ "verse_key": "101:1", "timestamp_from": 4747, "timestamp_to": 6127, "duration": 1380, "segments": [] },
+				{ "verse_key": "101:2", "timestamp_from": 6127, "timestamp_to": 7377, "duration": 1250, "segments": [] },
+				{ "verse_key": "101:3", "timestamp_from": 7377, "timestamp_to": 11487, "duration": 4110, "segments": [] },
+				{ "verse_key": "101:4", "timestamp_from": 11487, "timestamp_to": 16568, "duration": 5081, "segments": [] },
+				{ "verse_key": "101:5", "timestamp_from": 16568, "timestamp_to": 21758, "duration": 5190, "segments": [] },
+				{ "verse_key": "101:6", "timestamp_from": 21758, "timestamp_to": 26129, "duration": 4371, "segments": [] },
+				{ "verse_key": "101:7", "timestamp_from": 26129, "timestamp_to": 29199, "duration": 3070, "segments": [] },
+				{ "verse_key": "101:8", "timestamp_from": 29199, "timestamp_to": 33040, "duration": 3841, "segments": [] },
+				{ "verse_key": "101:9", "timestamp_from": 33040, "timestamp_to": 35700, "duration": 2660, "segments": [] },
+				{ "verse_key": "101:10", "timestamp_from": 35700, "timestamp_to": 39690, "duration": 3990, "segments": [] },
+				{ "verse_key": "101:11", "timestamp_from": 39690, "timestamp_to": 42043, "duration": 2353, "segments": [] }
+			]
+		}
+	]
+}

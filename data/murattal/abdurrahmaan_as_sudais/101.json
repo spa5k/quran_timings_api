@@ -1,0 +1,97 @@
+{
+	"audio_files": [
+		{
+			"id": 7570,
+			"chapter_id": 101,
+			"file_size": 1343616.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/murattal/101.mp3",
+			"duration": 51000,
+			"verse_timings": [
+				{
+					"verse_key": "101:1",
+					"timestamp_from": 0,
+					"timestamp_to": 2380,
+					"duration": -2380,
+					"segments": [[1, 0.0, 2025.0]]
+				},
+				{
+					"verse_key": "101:2",
+					"timestamp_from": 2380,
+					"timestamp_to": 5050,
+					"duration": -2670,
+					"segments": [[1, 2380.0, 3220.0], [2, 3220.0, 4695.0]]
+				},
+				{
+					"verse_key": "101:3",
+					"timestamp_from": 5050,
+					"timestamp_to": 10410,
+					"duration": -5360,
+					"segments": [[1, 5050.0, 7349.0], [2, 7349.0, 8470.0], [3, 8470.0, 8640.0], [4, 8640.0, 9935.0]]
+				},
+				{
+					"verse_key": "101:4",
+					"timestamp_from": 10410,
+					"timestamp_to": 17260,
+					"duration": -6850,
+					"segments": [
+						[1, 10410.0, 11890.0],
+						[2, 11890.0, 12730.0],
+						[3, 12730.0, 14070.0],
+						[4, 14070.0, 15410.0],
+						[5, 15410.0, 16885.0]
+					]
+				},
+				{
+					"verse_key": "101:5",
+					"timestamp_from": 17260,
+					"timestamp_to": 23870,
+					"duration": -6610,
+					"segments": [[1, 17260.0, 19080.0], [2, 19080.0, 20170.0], [3, 20170.0, 21280.0], [4, 21280.0, 23625.0]]
+				},
+				{
+					"verse_key": "101:6",
+					"timestamp_from": 23870,
+					"timestamp_to": 30350,
+					"duration": -6480,
+					"segments": [[1, 23870.0, 26570.0], [2, 26570.0, 27636.0], [3, 27636.0, 28480.0], [4, 28480.0, 30125.0]]
+				},
+				{
+					"verse_key": "101:7",
+					"timestamp_from": 30350,
+					"timestamp_to": 34560,
+					"duration": -4210,
+					"segments": [[1, 30350.0, 31480.0], [2, 31480.0, 31960.0], [3, 31960.0, 32902.0], [4, 32902.0, 34165.0]]
+				},
+				{
+					"verse_key": "101:8",
+					"timestamp_from": 34560,
+					"timestamp_to": 40180,
+					"duration": -5620,
+					"segments": [[1, 34560.0, 36850.0], [2, 36850.0, 37230.0], [3, 37230.0, 38200.0], [4, 38200.0, 39865.0]]
+				},
+				{
+					"verse_key": "101:9",
+					"timestamp_from": 40180,
+					"timestamp_to": 43820,
+					"duration": -3640,
+					"segments": [[1, 40180.0, 42250.0], [2, 42250.0, 43435.0]]
+				},
+				{
+					"verse_key": "101:10",
+					"timestamp_from": 43820,
+					"timestamp_to": 48450,
+					"duration": -4630,
+					"segments": [[1, 43820.0, 45916.0], [2, 45916.0, 46960.0], [3, 46960.0, 47350.0], [4, 47350.0, 48015.0]]
+				},
+				{
+					"verse_key": "101:11",
+					"timestamp_from": 48450,
+					"timestamp_to": 51200,
+					"duration": -2750,
+					"segments": [[1, 48450.0, 49740.0], [2, 49740.0, 50995.0]]
+				}
+			]
+		}
+	]
+}

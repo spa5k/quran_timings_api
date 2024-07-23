@@ -1,0 +1,50 @@
+{
+	"audio_files": [
+		{
+			"id": 665,
+			"chapter_id": 106,
+			"file_size": 321664.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abu_bakr_shatri/murattal/106.mp3",
+			"duration": 19000,
+			"verse_timings": [
+				{
+					"verse_key": "106:1",
+					"timestamp_from": 0,
+					"timestamp_to": 2894,
+					"duration": -2894,
+					"segments": [[1, 0, 1040], [2, 1200, 2490]]
+				},
+				{
+					"verse_key": "106:2",
+					"timestamp_from": 2894,
+					"timestamp_to": 8114,
+					"duration": -5220,
+					"segments": [[1, 2894, 4014], [2, 4014, 4694], [3, 4694, 6514], [4, 6544, 8004]]
+				},
+				{
+					"verse_key": "106:3",
+					"timestamp_from": 8114,
+					"timestamp_to": 11482,
+					"duration": -3368,
+					"segments": [[1, 8114, 9204], [2, 9204, 9714], [3, 9734, 10144], [4, 10144, 11224]]
+				},
+				{
+					"verse_key": "106:4",
+					"timestamp_from": 11482,
+					"timestamp_to": 19759,
+					"duration": -8277,
+					"segments": [
+						[1, 11482, 12792],
+						[2, 12792, 13782],
+						[3, 13782, 14462],
+						[4, 14912, 15892],
+						[5, 15892, 17052],
+						[6, 17052, 17842],
+						[7, 17842, 18922]
+					]
+				}
+			]
+		}
+	]
+}

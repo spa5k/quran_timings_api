@@ -1,0 +1,113 @@
+{
+	"audio_files": [
+		{
+			"id": 10815,
+			"chapter_id": 93,
+			"file_size": 2269312.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/mujawwad/93.mp3",
+			"duration": 122000,
+			"verse_timings": [
+				{
+					"verse_key": "93:1",
+					"timestamp_from": 0,
+					"timestamp_to": 6590,
+					"duration": 6,
+					"segments": [[1, 0.0, 6582.0]]
+				},
+				{
+					"verse_key": "93:2",
+					"timestamp_from": 6590,
+					"timestamp_to": 14640,
+					"duration": 8,
+					"segments": [[1, 9520.0, 10740.0], [2, 10750.0, 12040.0], [3, 12050.0, 14570.0]]
+				},
+				{
+					"verse_key": "93:3",
+					"timestamp_from": 14640,
+					"timestamp_to": 26610,
+					"duration": 11,
+					"segments": [
+						[1, 17540.0, 18450.0],
+						[2, 18460.0, 20450.0],
+						[3, 20460.0, 22430.0],
+						[4, 22440.0, 23840.0],
+						[5, 23850.0, 26520.0]
+					]
+				},
+				{
+					"verse_key": "93:4",
+					"timestamp_from": 26610,
+					"timestamp_to": 40380,
+					"duration": 13,
+					"segments": [
+						[1, 30610.0, 33180.0],
+						[2, 33190.0, 35310.0],
+						[3, 35320.0, 36150.0],
+						[4, 36160.0, 36880.0],
+						[5, 36890.0, 40320.0]
+					]
+				},
+				{
+					"verse_key": "93:5",
+					"timestamp_from": 40380,
+					"timestamp_to": 53530,
+					"duration": 13,
+					"segments": [[1, 44310.0, 46430.0], [2, 46440.0, 48040.0], [3, 48050.0, 49800.0], [4, 49810.0, 53500.0]]
+				},
+				{
+					"verse_key": "93:6",
+					"timestamp_from": 53530,
+					"timestamp_to": 64070,
+					"duration": 10,
+					"segments": [[1, 54980.0, 55950.0], [2, 55960.0, 57700.0], [3, 57710.0, 60340.0], [4, 60350.0, 63770.0]]
+				},
+				{
+					"verse_key": "93:7",
+					"timestamp_from": 64070,
+					"timestamp_to": 75990,
+					"duration": 11,
+					"segments": [[1, 66670.0, 68470.0], [2, 68480.0, 72990.0], [3, 73000.0, 75930.0]]
+				},
+				{
+					"verse_key": "93:8",
+					"timestamp_from": 75990,
+					"timestamp_to": 88460,
+					"duration": 12,
+					"segments": [[1, 78740.0, 80640.0], [2, 80650.0, 84860.0], [3, 84870.0, 88390.0]]
+				},
+				{
+					"verse_key": "93:9",
+					"timestamp_from": 88460,
+					"timestamp_to": 98190,
+					"duration": 9,
+					"segments": [[1, 89860.0, 91760.0], [2, 91770.0, 93810.0], [3, 93820.0, 95220.0], [4, 95230.0, 96850.0]]
+				},
+				{
+					"verse_key": "93:10",
+					"timestamp_from": 98190,
+					"timestamp_to": 110340,
+					"duration": 12,
+					"segments": [
+						[1, 100540.0, 102390.0],
+						[2, 102400.0, 106140.0],
+						[3, 106150.0, 107420.0],
+						[4, 107430.0, 109050.0]
+					]
+				},
+				{
+					"verse_key": "93:11",
+					"timestamp_from": 110340,
+					"timestamp_to": 122730,
+					"duration": 12,
+					"segments": [
+						[1, 112510.0, 115100.0],
+						[2, 115110.0, 117090.0],
+						[3, 117100.0, 118830.0],
+						[4, 118840.0, 120870.0]
+					]
+				}
+			]
+		}
+	]
+}

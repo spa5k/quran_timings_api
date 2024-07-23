@@ -1,0 +1,217 @@
+{
+	"audio_files": [
+		{
+			"id": 629,
+			"chapter_id": 88,
+			"file_size": 1773696.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abu_bakr_shatri/murattal/88.mp3",
+			"duration": 102000,
+			"verse_timings": [
+				{
+					"verse_key": "88:1",
+					"timestamp_from": 0,
+					"timestamp_to": 3541,
+					"duration": -3541,
+					"segments": [[1, 0, 340], [2, 340, 1130], [3, 1170, 1880], [4, 1880, 3440]]
+				},
+				{
+					"verse_key": "88:2",
+					"timestamp_from": 3541,
+					"timestamp_to": 7335,
+					"duration": -3794,
+					"segments": [[1, 3541, 4241], [2, 4241, 5981], [3, 5981, 7171]]
+				},
+				{
+					"verse_key": "88:3",
+					"timestamp_from": 7335,
+					"timestamp_to": 10445,
+					"duration": -3110,
+					"segments": [[1, 7335, 8255], [2, 8255, 10215]]
+				},
+				{
+					"verse_key": "88:4",
+					"timestamp_from": 10445,
+					"timestamp_to": 13260,
+					"duration": -2815,
+					"segments": [[1, 10445, 11105], [2, 11105, 11805], [3, 11915, 13145]]
+				},
+				{
+					"verse_key": "88:5",
+					"timestamp_from": 13260,
+					"timestamp_to": 16403,
+					"duration": -3143,
+					"segments": [[1, 13260, 14000], [2, 14000, 14300], [3, 14300, 15170], [4, 15170, 16280]]
+				},
+				{
+					"verse_key": "88:6",
+					"timestamp_from": 16403,
+					"timestamp_to": 22101,
+					"duration": -5698,
+					"segments": [
+						[1, 16403, 17053],
+						[2, 17053, 17533],
+						[3, 17533, 18513],
+						[4, 18573, 19253],
+						[5, 19253, 20083],
+						[6, 20083, 21723]
+					]
+				},
+				{
+					"verse_key": "88:7",
+					"timestamp_from": 22101,
+					"timestamp_to": 26708,
+					"duration": -4607,
+					"segments": [
+						[1, 22101, 22381],
+						[2, 22421, 23171],
+						[3, 23171, 23661],
+						[4, 23741, 24431],
+						[5, 24431, 25251],
+						[6, 25251, 26481]
+					]
+				},
+				{
+					"verse_key": "88:8",
+					"timestamp_from": 26708,
+					"timestamp_to": 31177,
+					"duration": -4469,
+					"segments": [[1, 26708, 27378], [2, 27508, 28948], [3, 28948, 31058]]
+				},
+				{
+					"verse_key": "88:9",
+					"timestamp_from": 31177,
+					"timestamp_to": 33907,
+					"duration": -2730,
+					"segments": [[1, 31177, 32347], [2, 32347, 33687]]
+				},
+				{
+					"verse_key": "88:10",
+					"timestamp_from": 33907,
+					"timestamp_to": 37192,
+					"duration": -3285,
+					"segments": [[1, 33907, 34357], [2, 34357, 35797], [3, 35797, 37077]]
+				},
+				{
+					"verse_key": "88:11",
+					"timestamp_from": 37192,
+					"timestamp_to": 40602,
+					"duration": -3410,
+					"segments": [[1, 37192, 37642], [2, 37642, 38372], [3, 38372, 39162], [4, 39162, 40492]]
+				},
+				{
+					"verse_key": "88:12",
+					"timestamp_from": 40602,
+					"timestamp_to": 43908,
+					"duration": -3306,
+					"segments": [[1, 40602, 41322], [2, 41322, 42492], [3, 42512, 43772]]
+				},
+				{
+					"verse_key": "88:13",
+					"timestamp_from": 43908,
+					"timestamp_to": 47420,
+					"duration": -3512,
+					"segments": [[1, 43908, 44558], [2, 44578, 45288], [3, 45288, 47058]]
+				},
+				{
+					"verse_key": "88:14",
+					"timestamp_from": 47420,
+					"timestamp_to": 50514,
+					"duration": -3094,
+					"segments": [[1, 47420, 48580], [2, 48580, 50410]]
+				},
+				{
+					"verse_key": "88:15",
+					"timestamp_from": 50514,
+					"timestamp_to": 53262,
+					"duration": -2748,
+					"segments": [[1, 50514, 51684], [2, 51684, 53134]]
+				},
+				{
+					"verse_key": "88:16",
+					"timestamp_from": 53262,
+					"timestamp_to": 56248,
+					"duration": -2986,
+					"segments": [[1, 53262, 54592], [2, 54592, 56122]]
+				},
+				{
+					"verse_key": "88:17",
+					"timestamp_from": 56248,
+					"timestamp_to": 61706,
+					"duration": -5458,
+					"segments": [
+						[1, 56248, 56968],
+						[2, 57038, 58648],
+						[3, 58648, 58938],
+						[4, 58938, 59818],
+						[5, 59818, 60428],
+						[6, 60428, 61478]
+					]
+				},
+				{
+					"verse_key": "88:18",
+					"timestamp_from": 61706,
+					"timestamp_to": 65769,
+					"duration": -4063,
+					"segments": [[1, 61706, 62236], [2, 62236, 64026], [3, 64116, 64616], [4, 64616, 65626]]
+				},
+				{
+					"verse_key": "88:19",
+					"timestamp_from": 65769,
+					"timestamp_to": 69151,
+					"duration": -3382,
+					"segments": [[1, 65769, 66269], [2, 66269, 67279], [3, 67409, 67959], [4, 67959, 69029]]
+				},
+				{
+					"verse_key": "88:20",
+					"timestamp_from": 69151,
+					"timestamp_to": 72401,
+					"duration": -3250,
+					"segments": [[1, 69151, 69661], [2, 69661, 70571], [3, 70571, 71151], [4, 71151, 72251]]
+				},
+				{
+					"verse_key": "88:21",
+					"timestamp_from": 72401,
+					"timestamp_to": 78152,
+					"duration": -5751,
+					"segments": [[1, 72401, 73391], [2, 73471, 75661], [3, 75701, 76681], [4, 76681, 77981]]
+				},
+				{
+					"verse_key": "88:22",
+					"timestamp_from": 78152,
+					"timestamp_to": 81949,
+					"duration": -3797,
+					"segments": [[1, 78152, 78722], [2, 78722, 80142], [3, 80142, 81672]]
+				},
+				{
+					"verse_key": "88:23",
+					"timestamp_from": 81949,
+					"timestamp_to": 85923,
+					"duration": -3974,
+					"segments": [[1, 81949, 82749], [2, 82749, 83579], [3, 83639, 84649], [4, 84649, 85769]]
+				},
+				{
+					"verse_key": "88:24",
+					"timestamp_from": 85923,
+					"timestamp_to": 90778,
+					"duration": -4855,
+					"segments": [[1, 85923, 87363], [2, 87453, 88163], [3, 88163, 89173], [4, 89173, 90583]]
+				},
+				{
+					"verse_key": "88:25",
+					"timestamp_from": 90778,
+					"timestamp_to": 96104,
+					"duration": -5326,
+					"segments": [[1, 90778, 92158], [2, 92248, 94108], [3, 94108, 95598]]
+				},
+				{
+					"verse_key": "88:26",
+					"timestamp_from": 96104,
+					"timestamp_to": 102387,
+					"duration": -6283,
+					"segments": [[1, 96104, 97204], [2, 97284, 98594], [3, 98594, 99984], [4, 100004, 101974]]
+				}
+			]
+		}
+	]
+}

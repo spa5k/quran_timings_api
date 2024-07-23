@@ -1,0 +1,27 @@
+{
+	"audio_files": [
+		{
+			"id": 11302,
+			"chapter_id": 60,
+			"file_size": 8708224.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/060.mp3",
+			"duration": 362000,
+			"verse_timings": [
+				{ "verse_key": "60:1", "timestamp_from": 4565, "timestamp_to": 56283, "duration": 51718, "segments": [] },
+				{ "verse_key": "60:2", "timestamp_from": 56283, "timestamp_to": 74136, "duration": 17853, "segments": [] },
+				{ "verse_key": "60:3", "timestamp_from": 74136, "timestamp_to": 87869, "duration": 13733, "segments": [] },
+				{ "verse_key": "60:4", "timestamp_from": 87869, "timestamp_to": 137261, "duration": 49392, "segments": [] },
+				{ "verse_key": "60:5", "timestamp_from": 137261, "timestamp_to": 149856, "duration": 12595, "segments": [] },
+				{ "verse_key": "60:6", "timestamp_from": 149856, "timestamp_to": 164508, "duration": 14652, "segments": [] },
+				{ "verse_key": "60:7", "timestamp_from": 164508, "timestamp_to": 178724, "duration": 14216, "segments": [] },
+				{ "verse_key": "60:8", "timestamp_from": 178724, "timestamp_to": 198512, "duration": 19788, "segments": [] },
+				{ "verse_key": "60:9", "timestamp_from": 198512, "timestamp_to": 222018, "duration": 23506, "segments": [] },
+				{ "verse_key": "60:10", "timestamp_from": 222018, "timestamp_to": 284047, "duration": 62029, "segments": [] },
+				{ "verse_key": "60:11", "timestamp_from": 284047, "timestamp_to": 306653, "duration": 22606, "segments": [] },
+				{ "verse_key": "60:12", "timestamp_from": 306653, "timestamp_to": 345605, "duration": 38952, "segments": [] },
+				{ "verse_key": "60:13", "timestamp_from": 345605, "timestamp_to": 362058, "duration": 16453, "segments": [] }
+			]
+		}
+	]
+}

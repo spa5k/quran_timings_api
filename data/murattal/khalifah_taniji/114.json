@@ -1,0 +1,20 @@
+{
+	"audio_files": [
+		{
+			"id": 11356,
+			"chapter_id": 114,
+			"file_size": 673920.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/114.mp3",
+			"duration": 27000,
+			"verse_timings": [
+				{ "verse_key": "114:1", "timestamp_from": 4904, "timestamp_to": 8104, "duration": 3200, "segments": [] },
+				{ "verse_key": "114:2", "timestamp_from": 8104, "timestamp_to": 10205, "duration": 2101, "segments": [] },
+				{ "verse_key": "114:3", "timestamp_from": 10205, "timestamp_to": 13185, "duration": 2980, "segments": [] },
+				{ "verse_key": "114:4", "timestamp_from": 13185, "timestamp_to": 18125, "duration": 4940, "segments": [] },
+				{ "verse_key": "114:5", "timestamp_from": 18125, "timestamp_to": 23126, "duration": 5001, "segments": [] },
+				{ "verse_key": "114:6", "timestamp_from": 23126, "timestamp_to": 27396, "duration": 4270, "segments": [] }
+			]
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"audio_files": [
+		{
+			"id": 10825,
+			"chapter_id": 104,
+			"file_size": 1642624.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/mujawwad/104.mp3",
+			"duration": 90000,
+			"verse_timings": [
+				{
+					"verse_key": "104:1",
+					"timestamp_from": 0,
+					"timestamp_to": 10090,
+					"duration": 10,
+					"segments": [[1, 2550.0, 4180.0], [2, 4190.0, 5810.0], [3, 5820.0, 7810.0], [4, 7820.0, 9940.0]]
+				},
+				{
+					"verse_key": "104:2",
+					"timestamp_from": 10090,
+					"timestamp_to": 22270,
+					"duration": 12,
+					"segments": [[1, 14410.0, 15620.0], [2, 15630.0, 16780.0], [3, 16790.0, 18720.0], [4, 18730.0, 22150.0]]
+				},
+				{
+					"verse_key": "104:3",
+					"timestamp_from": 22270,
+					"timestamp_to": 33410,
+					"duration": 11,
+					"segments": [[1, 22270.0, 27330.0], [2, 27340.0, 27710.0], [3, 27720.0, 30590.0], [4, 30600.0, 33240.0]]
+				},
+				{
+					"verse_key": "104:4",
+					"timestamp_from": 33410,
+					"timestamp_to": 44830,
+					"duration": 11,
+					"segments": [[1, 37150.0, 39370.0], [2, 39380.0, 41390.0], [3, 41400.0, 42130.0], [4, 42140.0, 44770.0]]
+				},
+				{
+					"verse_key": "104:5",
+					"timestamp_from": 44830,
+					"timestamp_to": 53800,
+					"duration": 8,
+					"segments": [[1, 46230.0, 48410.0], [2, 48420.0, 50410.0], [3, 50420.0, 50750.0], [4, 50760.0, 53370.0]]
+				},
+				{
+					"verse_key": "104:6",
+					"timestamp_from": 53800,
+					"timestamp_to": 62900,
+					"duration": 9,
+					"segments": [[1, 56900.0, 58300.0], [2, 58310.0, 59980.0], [3, 59990.0, 62890.0]]
+				},
+				{
+					"verse_key": "104:7",
+					"timestamp_from": 62900,
+					"timestamp_to": 73570,
+					"duration": 10,
+					"segments": [[1, 65600.0, 67500.0], [2, 67510.0, 69290.0], [3, 69300.0, 70130.0], [4, 70140.0, 73490.0]]
+				},
+				{
+					"verse_key": "104:8",
+					"timestamp_from": 73570,
+					"timestamp_to": 83160,
+					"duration": 9,
+					"segments": [[1, 75070.0, 77530.0], [2, 77540.0, 80380.0], [3, 80390.0, 82630.0]]
+				},
+				{
+					"verse_key": "104:9",
+					"timestamp_from": 83160,
+					"timestamp_to": 90510,
+					"duration": 7,
+					"segments": [[1, 83910.0, 84720.0], [2, 84730.0, 86940.0], [3, 86950.0, 89690.0]]
+				}
+			]
+		}
+	]
+}

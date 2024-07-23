@@ -1,0 +1,70 @@
+{
+	"audio_files": [
+		{
+			"id": 10816,
+			"chapter_id": 94,
+			"file_size": 1587328.0,
+			"format": "mp3",
+			"audio_url": "https://download.quranicaudio.com/qdc/abdul_baset/mujawwad/94.mp3",
+			"duration": 67000,
+			"verse_timings": [
+				{
+					"verse_key": "94:1",
+					"timestamp_from": 0,
+					"timestamp_to": 8050,
+					"duration": 8,
+					"segments": [[1, 1500.0, 2780.0], [2, 2790.0, 4510.0], [3, 4520.0, 5210.0], [4, 5220.0, 6520.0]]
+				},
+				{
+					"verse_key": "94:2",
+					"timestamp_from": 8050,
+					"timestamp_to": 15160,
+					"duration": 7,
+					"segments": [[1, 8940.0, 11340.0], [2, 11350.0, 13030.0], [3, 13040.0, 14510.0]]
+				},
+				{
+					"verse_key": "94:3",
+					"timestamp_from": 15160,
+					"timestamp_to": 23950,
+					"duration": 8,
+					"segments": [[1, 16210.0, 19140.0], [2, 19150.0, 21580.0], [3, 21590.0, 23160.0]]
+				},
+				{
+					"verse_key": "94:4",
+					"timestamp_from": 23950,
+					"timestamp_to": 31040,
+					"duration": 7,
+					"segments": [[1, 25160.0, 27760.0], [2, 27770.0, 28510.0], [3, 28520.0, 30980.0]]
+				},
+				{
+					"verse_key": "94:5",
+					"timestamp_from": 31040,
+					"timestamp_to": 39020,
+					"duration": 7,
+					"segments": [[1, 31940.0, 33860.0], [2, 33870.0, 34520.0], [3, 34530.0, 36370.0], [4, 36380.0, 38950.0]]
+				},
+				{
+					"verse_key": "94:6",
+					"timestamp_from": 39020,
+					"timestamp_to": 49840,
+					"duration": 10,
+					"segments": [[1, 42220.0, 39070.0], [2, 43850.0, 44990.0], [3, 45000.0, 46820.0], [4, 46830.0, 49730.0]]
+				},
+				{
+					"verse_key": "94:7",
+					"timestamp_from": 49840,
+					"timestamp_to": 59510,
+					"duration": 9,
+					"segments": [[1, 52790.0, 54280.0], [2, 54290.0, 57590.0], [3, 57600.0, 59450.0]]
+				},
+				{
+					"verse_key": "94:8",
+					"timestamp_from": 59510,
+					"timestamp_to": 67350,
+					"duration": 7,
+					"segments": [[1, 61320.0, 63550.0], [2, 63560.0, 64520.0], [3, 64530.0, 67300.0]]
+				}
+			]
+		}
+	]
+}
